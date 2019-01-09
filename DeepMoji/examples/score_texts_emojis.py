@@ -17,6 +17,8 @@ from deepmoji.model_def import deepmoji_emojis
 from deepmoji.global_variables import PRETRAINED_PATH, VOCAB_PATH
 
 OUTPUT_PATH = 'test_sentences.csv'
+INPUT_SENTENCE_PATH = 'animations_and_transcripts'
+INPUT_FILE = 'storyteller_story_anim.json'
 
 TEST_SENTENCES = [u'I love mom\'s cooking',
                   u'I love how you never reply back..',
@@ -25,7 +27,14 @@ TEST_SENTENCES = [u'I love mom\'s cooking',
                   u'I love you and now you\'re just gone..',
                   u'This is shit',
                   u'This is the shit']
+NUM_TEST_SENTENCES = len(TEST_SENTENCES)
 
+with open('{}/{}'.format(INPUT_SENTENCE_PATH, INPUT_FILE)) as f:
+    examples = json.load(f)
+
+for message in examples.keys():
+    script = examples[message]['script']
+    TEST_SENTENCES.append(script)
 
 def top_elements(array, k):
     ind = np.argpartition(array, -k)[-k:]
@@ -64,12 +73,22 @@ for i, t in enumerate(TEST_SENTENCES):
     scores.append(t_score)
     print(t_score)
 
+new_input_scores = sorted(scores[NUM_TEST_SENTENCES:],
+                          key=lambda x: x[1],
+                          reverse=True)
+original_scores = scores[:NUM_TEST_SENTENCES]
+
 with open(OUTPUT_PATH, 'wb') as csvfile:
     writer = csv.writer(csvfile, delimiter=',', lineterminator='\n')
     writer.writerow(['Text', 'Top5%',
                      'Emoji_1', 'Emoji_2', 'Emoji_3', 'Emoji_4', 'Emoji_5',
                      'Pct_1', 'Pct_2', 'Pct_3', 'Pct_4', 'Pct_5'])
-    for i, row in enumerate(scores):
+    for i, row in enumerate(original_scores):
+        try:
+            writer.writerow(row)
+        except Exception:
+            print("Exception at row {}!".format(i))
+    for i, row in enumerate(new_input_scores):
         try:
             writer.writerow(row)
         except Exception:
