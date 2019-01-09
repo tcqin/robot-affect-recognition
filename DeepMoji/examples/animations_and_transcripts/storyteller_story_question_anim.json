@@ -1,0 +1,4820 @@
+{
+    "a_cub_can_h_1": {
+        "anim": [
+            [
+                0.1, 
+                "IDLESTILL"
+            ], 
+            [
+                1.0, 
+                "SILENT_CONFIRM"
+            ], 
+            [
+                3.0, 
+                "SILENT_THINKING"
+            ]
+        ], 
+        "audio": "storyteller/questions/a_cub_can_h_1.wav", 
+        "script": "What do other animals do? Could a cub do those things?"
+    }, 
+    "a_cub_can_h_2": {
+        "anim": [
+            [
+                0.1, 
+                "IDLESTILL"
+            ], 
+            [
+                1.5, 
+                "SILENT_NOD"
+            ], 
+            [
+                4.0, 
+                "SILENT_INTERESTED"
+            ]
+        ], 
+        "audio": "storyteller/questions/a_cub_can_h_2.wav", 
+        "script": "The cub can't be hot, so it put its face on something. What is it?"
+    }, 
+    "a_cub_can_q_f_2": {
+        "anim": [
+            [
+                0.2, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/a_cub_can_q_f_2.wav", 
+        "script": "How is the cub staying cool?"
+    }, 
+    "a_cub_can_q_i_1": {
+        "anim": [
+            [
+                0.2, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/a_cub_can_q_i_1.wav", 
+        "script": "What do you think a cub can do?"
+    }, 
+    "a_dozen_dogs_h_1": {
+        "anim": [
+            [
+                0.1, 
+                "IDLESTILL"
+            ], 
+            [
+                1.5, 
+                "SILENT_NOD"
+            ]
+        ], 
+        "audio": "storyteller/questions/a_dozen_dogs_h_1.wav", 
+        "script": "Have you ever been to the beach? What did you do there?"
+    }, 
+    "a_dozen_dogs_h_2": {
+        "anim": [
+            [
+                0.1, 
+                "IDLESTILL"
+            ], 
+            [
+                1.0, 
+                "SILENT_CONFIRM"
+            ], 
+            [
+                3.0, 
+                "SILENT_PUZZLED"
+            ]
+        ], 
+        "audio": "storyteller/questions/a_dozen_dogs_h_2.wav", 
+        "script": "They want to go swimming. What do you think they'll do next?"
+    }, 
+    "a_dozen_dogs_h_3": {
+        "anim": [
+            [
+                0.1, 
+                "IDLESTILL"
+            ], 
+            [
+                1.0, 
+                "SILENT_BOUNCINGTILT"
+            ]
+        ], 
+        "audio": "storyteller/questions/a_dozen_dogs_h_3.wav", 
+        "script": "Can you count them? How many are there?"
+    }, 
+    "a_dozen_dogs_q_f_3": {
+        "anim": [
+            [
+                0.2, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/a_dozen_dogs_q_f_3.wav", 
+        "script": "How many dogs are in the boat?"
+    }, 
+    "a_dozen_dogs_q_i_1": {
+        "anim": [
+            [
+                0.2, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/a_dozen_dogs_q_i_1.wav", 
+        "script": "What would you do if you were at the beach?"
+    }, 
+    "a_dozen_dogs_q_i_2": {
+        "anim": [
+            [
+                0.2, 
+                "SILENT_BOUNCINGTILT"
+            ]
+        ], 
+        "audio": "storyteller/questions/a_dozen_dogs_q_i_2.wav", 
+        "script": "What do you think the dogs will do next?"
+    }, 
+    "a_rain_forest_day_a_3": {
+        "anim": [
+            [
+                0.1, 
+                "IDLESTILL"
+            ], 
+            [
+                1.0, 
+                "SILENT_YES"
+            ], 
+            [
+                2.5, 
+                "SWAY"
+            ]
+        ], 
+        "audio": "storyteller/questions/a_rain_forest_day_a_3.wav", 
+        "script": "Sway means go back and forth. See me sway!"
+    }, 
+    "a_rain_forest_day_h_1": {
+        "anim": [
+            [
+                0.1, 
+                "IDLESTILL"
+            ], 
+            [
+                1.0, 
+                "SILENT_NOD"
+            ]
+        ], 
+        "audio": "storyteller/questions/a_rain_forest_day_h_1.wav", 
+        "script": "How often does it rain? Every month? Every week? Every day?"
+    }, 
+    "a_rain_forest_day_h_2": {
+        "anim": [
+            [
+                0.1, 
+                "IDLESTILL"
+            ], 
+            [
+                1.0, 
+                "SILENT_THINKING"
+            ]
+        ], 
+        "audio": "storyteller/questions/a_rain_forest_day_h_2.wav", 
+        "script": "Look at the picture. Where is the bird?"
+    }, 
+    "a_rain_forest_day_h_3": {
+        "anim": [
+            [
+                0.1, 
+                "IDLESTILL"
+            ], 
+            [
+                1.0, 
+                "SILENT_SWIPE_STAGERIGHT"
+            ], 
+            [
+                4.0, 
+                "SILENT_CONFIRM"
+            ]
+        ], 
+        "audio": "storyteller/questions/a_rain_forest_day_h_3.wav", 
+        "script": "The sloth hangs and sways. Think about what you do on a swing."
+    }, 
+    "a_rain_forest_day_h_4": {
+        "anim": [
+            [
+                0.1, 
+                "IDLESTILL"
+            ], 
+            [
+                1.0, 
+                "SILENT_HAPPY_WIGGLE"
+            ]
+        ], 
+        "audio": "storyteller/questions/a_rain_forest_day_h_4.wav", 
+        "script": "What did we see in the pictures in the book?"
+    }, 
+    "a_rain_forest_day_q_f_1": {
+        "anim": [
+            [
+                0.2, 
+                "SILENT_BOUNCINGTILT"
+            ]
+        ], 
+        "audio": "storyteller/questions/a_rain_forest_day_q_f_1.wav", 
+        "script": "When does it rain in the rain forest?"
+    }, 
+    "a_rain_forest_day_q_f_2": {
+        "anim": [
+            [
+                0.2, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/a_rain_forest_day_q_f_2.wav", 
+        "script": "What does the bird do?"
+    }, 
+    "a_rain_forest_day_q_i_4": {
+        "anim": [
+            [
+                0.2, 
+                "SILENT_INTERESTED"
+            ]
+        ], 
+        "audio": "storyteller/questions/a_rain_forest_day_q_i_4.wav", 
+        "script": "What would you see if you went to a rain forest some day?"
+    }, 
+    "a_rain_forest_day_q_l_3": {
+        "anim": [
+            [
+                0.2, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/a_rain_forest_day_q_l_3.wav", 
+        "script": "Do you know what sway means?"
+    }, 
+    "at_bat_h_1": {
+        "anim": [
+            [
+                0.1, 
+                "IDLESTILL"
+            ], 
+            [
+                1.0, 
+                "SILENT_BOUNCINGTILT"
+            ]
+        ], 
+        "audio": "storyteller/questions/at_bat_h_1.wav", 
+        "script": "Someone batted the ball. Who was it?"
+    }, 
+    "at_bat_h_2": {
+        "anim": [
+            [
+                0.1, 
+                "IDLESTILL"
+            ], 
+            [
+                0.2, 
+                "SILENT_EXCITED"
+            ]
+        ], 
+        "audio": "storyteller/questions/at_bat_h_2.wav", 
+        "script": "It's going very far and high! Where will it land?"
+    }, 
+    "at_bat_q_f_1": {
+        "anim": [
+            [
+                0.2, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/at_bat_q_f_1.wav", 
+        "script": "Who batted the ball?"
+    }, 
+    "at_bat_q_i_2": {
+        "anim": [
+            [
+                0.2, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/at_bat_q_i_2.wav", 
+        "script": "Where will the ball go?"
+    }, 
+    "baby_birds_first_nest_a_1": {
+        "anim": [
+            [
+                0.1, 
+                "IDLESTILL"
+            ], 
+            [
+                1.0, 
+                "SHIFT_WEIGHT1"
+            ], 
+            [
+                5.0, 
+                "SILENT_NO"
+            ], 
+            [
+                7.5, 
+                "LAUGH"
+            ]
+        ], 
+        "audio": "storyteller/questions/baby_birds_first_nest_a_1.wav", 
+        "script": "prostrate means lying with your face down. I actually can't lie prostrate because I'm round."
+    }, 
+    "baby_birds_first_nest_a_11": {
+        "anim": [
+            [
+                0.1, 
+                "IDLESTILL"
+            ], 
+            [
+                1.0, 
+                "PERKUP"
+            ], 
+            [
+                3.0, 
+                "SILENT_BOUNCINGTILT"
+            ]
+        ], 
+        "audio": "storyteller/questions/baby_birds_first_nest_a_11.wav", 
+        "script": "mauve is a purplish color. I wish I had a mauve colored outfit."
+    }, 
+    "baby_birds_first_nest_a_2": {
+        "anim": [
+            [
+                0.1, 
+                "IDLESTILL"
+            ], 
+            [
+                1.0, 
+                "SILENT_BOUNCINGTILT"
+            ], 
+            [
+                3.5, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/baby_birds_first_nest_a_2.wav", 
+        "script": "Slumber means sleep. I like to take a short slumber after lunch."
+    }, 
+    "baby_birds_first_nest_a_4": {
+        "anim": [
+            [
+                0.1, 
+                "IDLESTILL"
+            ], 
+            [
+                1.0, 
+                "SILENT_AGREEMENT"
+            ], 
+            [
+                5.0, 
+                "SILENT_BOUNCINGTILT"
+            ]
+        ], 
+        "audio": "storyteller/questions/baby_birds_first_nest_a_4.wav", 
+        "script": "montage is making something with different materials. I'm a montage of plastic, metal, and fabric!"
+    }, 
+    "baby_birds_first_nest_a_5": {
+        "anim": [
+            [
+                0.1, 
+                "PERKUP"
+            ], 
+            [
+                1.0, 
+                "SILENT_HAPPY_DANCE"
+            ], 
+            [
+                5.0, 
+                "HAPPY_UP"
+            ]
+        ], 
+        "audio": "storyteller/questions/baby_birds_first_nest_a_5.wav", 
+        "script": "Tuft is a group of things like grass or hair. See my on my head? Those are tufts of fur."
+    }, 
+    "baby_birds_first_nest_a_7": {
+        "anim": [
+            [
+                0.1, 
+                "IDLESTILL"
+            ], 
+            [
+                1.0, 
+                "SILENT_BOUNCINGTILT"
+            ], 
+            [
+                4.0, 
+                "SILENT_CONFIRM"
+            ], 
+            [
+                6.0, 
+                "SHIFT_WEIGHT1"
+            ]
+        ], 
+        "audio": "storyteller/questions/baby_birds_first_nest_a_7.wav", 
+        "script": "dove is past of dive. Diving is going head first into water.  My rubber duck dove in the bath tub when I was taking a bath!"
+    }, 
+    "baby_birds_first_nest_a_8": {
+        "anim": [
+            [
+                0.1, 
+                "IDLESTILL"
+            ], 
+            [
+                1.0, 
+                "HAPPY_UP"
+            ], 
+            [
+                4.0, 
+                "SILENT_AGREEMENT"
+            ]
+        ], 
+        "audio": "storyteller/questions/baby_birds_first_nest_a_8.wav", 
+        "script": "Hind means back! I have a horse friend who likes to kick with its hind legs!"
+    }, 
+    "baby_birds_first_nest_a_9": {
+        "anim": [
+            [
+                0.1, 
+                "IDLESTILL"
+            ], 
+            [
+                1.0, 
+                "PERKUP"
+            ], 
+            [
+                4.0, 
+                "SILENT_BOUNCINGTILT"
+            ]
+        ], 
+        "audio": "storyteller/questions/baby_birds_first_nest_a_9.wav", 
+        "script": "perching is resting or sitting on something. I'm perching on a table"
+    }, 
+    "baby_birds_first_nest_h_1": {
+        "anim": [
+            [
+                0.1, 
+                "PERKUP"
+            ], 
+            [
+                1.0, 
+                "SILENT_HAPPY_WIGGLE"
+            ]
+        ], 
+        "audio": "storyteller/questions/baby_birds_first_nest_h_1.wav", 
+        "script": "Look at what the bird is doing. She's lying on her tummy!"
+    }, 
+    "baby_birds_first_nest_h_10": {
+        "anim": [
+            [
+                0.1, 
+                "IDLESTILL"
+            ], 
+            [
+                1.0, 
+                "SILENT_HAPPY_WIGGLE"
+            ]
+        ], 
+        "audio": "storyteller/questions/baby_birds_first_nest_h_10.wav", 
+        "script": "Little frog thinks she can hop up. What do you think?"
+    }, 
+    "baby_birds_first_nest_h_11": {
+        "anim": [
+            [
+                0.1, 
+                "IDLESTILL"
+            ], 
+            [
+                1.0, 
+                "SILENT_LEFTRIGHTLOOKING"
+            ]
+        ], 
+        "audio": "storyteller/questions/baby_birds_first_nest_h_11.wav", 
+        "script": "both baby bird and her mom have mauve feathers"
+    }, 
+    "baby_birds_first_nest_h_12": {
+        "anim": [
+            [
+                0.1, 
+                "IDLESTILL"
+            ], 
+            [
+                1.0, 
+                "SILENT_INTERESTED"
+            ], 
+            [
+                5.0, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/baby_birds_first_nest_h_12.wav", 
+        "script": "What did little frog think of baby bird's nest on the ground? Did he like it?"
+    }, 
+    "baby_birds_first_nest_h_2": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/baby_birds_first_nest_h_2.wav", 
+        "script": "What is Mama bird doing?"
+    }, 
+    "baby_birds_first_nest_h_3": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/baby_birds_first_nest_h_3.wav", 
+        "script": "Look at the picture. Who is baby bird talking to?"
+    }, 
+    "baby_birds_first_nest_h_4": {
+        "anim": [
+            [
+                0.1, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/baby_birds_first_nest_h_4.wav", 
+        "script": "how is the nest made?"
+    }, 
+    "baby_birds_first_nest_h_5": {
+        "anim": [
+            [
+                0.1, 
+                "IDLESTILL"
+            ], 
+            [
+                1.0, 
+                "SILENT_NOD"
+            ]
+        ], 
+        "audio": "storyteller/questions/baby_birds_first_nest_h_5.wav", 
+        "script": "the nest was built on grass tufts."
+    }, 
+    "baby_birds_first_nest_h_6": {
+        "anim": [
+            [
+                0.1, 
+                "IDLESTILL"
+            ], 
+            [
+                1.0, 
+                "SILENT_HAPPY_WIGGLE"
+            ], 
+            [
+                3.0, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/baby_birds_first_nest_h_6.wav", 
+        "script": "Baby bird just built her first nest. How do you think she feels?"
+    }, 
+    "baby_birds_first_nest_h_7": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/baby_birds_first_nest_h_7.wav", 
+        "script": "what is the frog doing?"
+    }, 
+    "baby_birds_first_nest_h_8": {
+        "anim": [
+            [
+                0.1, 
+                "IDLESTILL"
+            ], 
+            [
+                1.0, 
+                "SILENT_YAWN"
+            ], 
+            [
+                4.0, 
+                "SILENT_AGREEMENT"
+            ]
+        ], 
+        "audio": "storyteller/questions/baby_birds_first_nest_h_8.wav", 
+        "script": "Raccoon is standing on its hind legs. Those are his back legs."
+    }, 
+    "baby_birds_first_nest_h_9": {
+        "anim": [
+            [
+                0.1, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/baby_birds_first_nest_h_9.wav", 
+        "script": "what is the bird doing?"
+    }, 
+    "baby_birds_first_nest_q_e_6": {
+        "anim": [
+            [
+                0.2, 
+                "SILENT_BOUNCINGTILT"
+            ]
+        ], 
+        "audio": "storyteller/questions/baby_birds_first_nest_q_e_6.wav", 
+        "script": "How does baby bird feel about her first nest? Can you show me with your face?"
+    }, 
+    "baby_birds_first_nest_q_f_3": {
+        "anim": [
+            [
+                0.2, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/baby_birds_first_nest_q_f_3.wav", 
+        "script": "Who did Baby bird just meet?"
+    }, 
+    "baby_birds_first_nest_q_i_10": {
+        "anim": [
+            [
+                0.2, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/baby_birds_first_nest_q_i_10.wav", 
+        "script": "Do you think baby bird can get back to her nest?"
+    }, 
+    "baby_birds_first_nest_q_i_12": {
+        "anim": [
+            [
+                0.2, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/baby_birds_first_nest_q_i_12.wav", 
+        "script": "Do you think little frog will sleep in the nest?"
+    }, 
+    "baby_birds_first_nest_q_l_1": {
+        "anim": [
+            [
+                0.2, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/baby_birds_first_nest_q_l_1.wav", 
+        "script": "What is prostrate?"
+    }, 
+    "baby_birds_first_nest_q_l_11": {
+        "anim": [
+            [
+                0.2, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/baby_birds_first_nest_q_l_11.wav", 
+        "script": "What color is mauve?"
+    }, 
+    "baby_birds_first_nest_q_l_2": {
+        "anim": [
+            [
+                0.2, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/baby_birds_first_nest_q_l_2.wav", 
+        "script": "What is slumber?"
+    }, 
+    "baby_birds_first_nest_q_l_4": {
+        "anim": [
+            [
+                0.2, 
+                "SILENT_BOUNCINGTILT"
+            ]
+        ], 
+        "audio": "storyteller/questions/baby_birds_first_nest_q_l_4.wav", 
+        "script": "What is montage?"
+    }, 
+    "baby_birds_first_nest_q_l_5": {
+        "anim": [
+            [
+                0.2, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/baby_birds_first_nest_q_l_5.wav", 
+        "script": "What is tuft?"
+    }, 
+    "baby_birds_first_nest_q_l_7": {
+        "anim": [
+            [
+                0.2, 
+                "SILENT_BOUNCINGTILT"
+            ]
+        ], 
+        "audio": "storyteller/questions/baby_birds_first_nest_q_l_7.wav", 
+        "script": "What is dove?"
+    }, 
+    "baby_birds_first_nest_q_l_8": {
+        "anim": [
+            [
+                0.2, 
+                "SILENT_BOUNCINGTILT"
+            ]
+        ], 
+        "audio": "storyteller/questions/baby_birds_first_nest_q_l_8.wav", 
+        "script": "What is hind?"
+    }, 
+    "baby_birds_first_nest_q_l_9": {
+        "anim": [
+            [
+                0.2, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/baby_birds_first_nest_q_l_9.wav", 
+        "script": "What is perched?"
+    }, 
+    "baby_ducks_new_friend_a_1": {
+        "anim": [
+            [
+                0.1, 
+                "IDLESTILL"
+            ], 
+            [
+                1.0, 
+                "CIRCLING"
+            ], 
+            [
+                5.0, 
+                "SILENT_CONFIRM"
+            ]
+        ], 
+        "audio": "storyteller/questions/baby_ducks_new_friend_a_1.wav", 
+        "script": "Arch is a curved shape. It supports the weight of a bridge."
+    }, 
+    "baby_ducks_new_friend_a_3": {
+        "anim": [
+            [
+                0.1, 
+                "IDLESTILL"
+            ], 
+            [
+                1.0, 
+                "SHIFT_WEIGHT1"
+            ], 
+            [
+                6.0, 
+                "HEADPOINTBACK"
+            ], 
+            [
+                8.0, 
+                "SILENT_CONFIRM"
+            ]
+        ], 
+        "audio": "storyteller/questions/baby_ducks_new_friend_a_3.wav", 
+        "script": "Plummet means fall or drop at high speed. The ducks plummeted because the river was broken!"
+    }, 
+    "baby_ducks_new_friend_a_5": {
+        "anim": [
+            [
+                0.1, 
+                "IDLESTILL"
+            ], 
+            [
+                1.0, 
+                "SIDEPERK"
+            ], 
+            [
+                5.0, 
+                "HAPPY_UP"
+            ]
+        ], 
+        "audio": "storyteller/questions/baby_ducks_new_friend_a_5.wav", 
+        "script": "Do you see the glow around the moon? That's corona. Sun and stars have corona, too!"
+    }, 
+    "baby_ducks_new_friend_a_7": {
+        "anim": [
+            [
+                0.1, 
+                "IDLESTILL"
+            ], 
+            [
+                1.0, 
+                "HAPPY_UP"
+            ], 
+            [
+                4.0, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/baby_ducks_new_friend_a_7.wav", 
+        "script": "Aloft means up in the air. I wish I could fly aloft!"
+    }, 
+    "baby_ducks_new_friend_a_8": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ], 
+            [
+                1.0, 
+                "SILENT_AGREEMENT"
+            ], 
+            [
+                4.0, 
+                "CIRCLING"
+            ], 
+            [
+                7.0, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/baby_ducks_new_friend_a_8.wav", 
+        "script": "Ripples are small waves. Like those circles in the water where the duck landed. Try creating ripples at bath time!"
+    }, 
+    "baby_ducks_new_friend_a_9": {
+        "anim": [
+            [
+                0.1, 
+                "IDLESTILL"
+            ], 
+            [
+                1.0, 
+                "SILENT_LEFTRIGHTLOOKING"
+            ], 
+            [
+                5.0, 
+                "SILENT_CONFIRM"
+            ]
+        ], 
+        "audio": "storyteller/questions/baby_ducks_new_friend_a_9.wav", 
+        "script": "When you mix red with brown, that's an auburn color! I have a friend who has an auburn hair."
+    }, 
+    "baby_ducks_new_friend_h_1": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/baby_ducks_new_friend_h_1.wav", 
+        "script": "What is the shape of the bridge?"
+    }, 
+    "baby_ducks_new_friend_h_10": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/baby_ducks_new_friend_h_10.wav", 
+        "script": "Has Mama Duck ever seen Baby Duck fly?"
+    }, 
+    "baby_ducks_new_friend_h_2": {
+        "anim": [
+            [
+                0.1, 
+                "IDLESTILL"
+            ], 
+            [
+                1.0, 
+                "SILENT_CONFIRM"
+            ], 
+            [
+                2.5, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/baby_ducks_new_friend_h_2.wav", 
+        "script": "Yellow duck is floating somewhere. Where is it?"
+    }, 
+    "baby_ducks_new_friend_h_3": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/baby_ducks_new_friend_h_3.wav", 
+        "script": "What are the ducks doing in the picture?"
+    }, 
+    "baby_ducks_new_friend_h_4": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ], 
+            [
+                1.0, 
+                "SILENT_SCARED"
+            ], 
+            [
+                5.0, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/baby_ducks_new_friend_h_4.wav", 
+        "script": "Mama said foxes are scary. How would baby duck feel about foxes?"
+    }, 
+    "baby_ducks_new_friend_h_5": {
+        "anim": [
+            [
+                0.1, 
+                "IDLESTILL"
+            ], 
+            [
+                0.5, 
+                "HAPPY_UP"
+            ], 
+            [
+                3.5, 
+                "SILENT_CONFIRM"
+            ]
+        ], 
+        "audio": "storyteller/questions/baby_ducks_new_friend_h_5.wav", 
+        "script": "The moon is really bright! What's around the moon?"
+    }, 
+    "baby_ducks_new_friend_h_6": {
+        "anim": [
+            [
+                0.1, 
+                "PERKUP"
+            ], 
+            [
+                2.0, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/baby_ducks_new_friend_h_6.wav", 
+        "script": "Look at baby duck. What is baby duck doing?"
+    }, 
+    "baby_ducks_new_friend_h_7": {
+        "anim": [
+            [
+                0.1, 
+                "IDLESTILL"
+            ], 
+            [
+                0.5, 
+                "SILENT_EXCITED"
+            ]
+        ], 
+        "audio": "storyteller/questions/baby_ducks_new_friend_h_7.wav", 
+        "script": "Baby duck is in the air!"
+    }, 
+    "baby_ducks_new_friend_h_8": {
+        "anim": [
+            [
+                0.1, 
+                "IDLESTILL"
+            ], 
+            [
+                1.0, 
+                "SILENT_HAPPY_WIGGLE"
+            ], 
+            [
+                4.0, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/baby_ducks_new_friend_h_8.wav", 
+        "script": "Look around where Baby duck landed, around the splash. What do you see?"
+    }, 
+    "baby_ducks_new_friend_h_9": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/baby_ducks_new_friend_h_9.wav", 
+        "script": "What color are Baby duck's feathers?"
+    }, 
+    "baby_ducks_new_friend_q_e_4": {
+        "anim": [
+            [
+                0.2, 
+                "SILENT_BOUNCINGTILT"
+            ]
+        ], 
+        "audio": "storyteller/questions/baby_ducks_new_friend_q_e_4.wav", 
+        "script": "How does baby duck feel about foxes?"
+    }, 
+    "baby_ducks_new_friend_q_i_10": {
+        "anim": [
+            [
+                0.2, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/baby_ducks_new_friend_q_i_10.wav", 
+        "script": "Why is Mama Duck trying to teach Baby Duck to fly?"
+    }, 
+    "baby_ducks_new_friend_q_i_2": {
+        "anim": [
+            [
+                0.2, 
+                "SILENT_BOUNCINGTILT"
+            ]
+        ], 
+        "audio": "storyteller/questions/baby_ducks_new_friend_q_i_2.wav", 
+        "script": "Where is the yellow duck going?"
+    }, 
+    "baby_ducks_new_friend_q_i_6": {
+        "anim": [
+            [
+                0.2, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/baby_ducks_new_friend_q_i_6.wav", 
+        "script": "Why doesn't baby duck have to swim home after all?"
+    }, 
+    "baby_ducks_new_friend_q_l_1": {
+        "anim": [
+            [
+                0.2, 
+                "SILENT_BOUNCINGTILT"
+            ]
+        ], 
+        "audio": "storyteller/questions/baby_ducks_new_friend_q_l_1.wav", 
+        "script": "What is an arch?"
+    }, 
+    "baby_ducks_new_friend_q_l_3": {
+        "anim": [
+            [
+                0.2, 
+                "SILENT_BOUNCINGTILT"
+            ]
+        ], 
+        "audio": "storyteller/questions/baby_ducks_new_friend_q_l_3.wav", 
+        "script": "Do you know the meaning of plummet?"
+    }, 
+    "baby_ducks_new_friend_q_l_5": {
+        "anim": [
+            [
+                0.2, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/baby_ducks_new_friend_q_l_5.wav", 
+        "script": "Do you know what corona is?"
+    }, 
+    "baby_ducks_new_friend_q_l_7": {
+        "anim": [
+            [
+                0.2, 
+                "SILENT_BOUNCINGTILT"
+            ]
+        ], 
+        "audio": "storyteller/questions/baby_ducks_new_friend_q_l_7.wav", 
+        "script": "What's aloft?"
+    }, 
+    "baby_ducks_new_friend_q_l_8": {
+        "anim": [
+            [
+                0.2, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/baby_ducks_new_friend_q_l_8.wav", 
+        "script": "What's a ripple?"
+    }, 
+    "baby_ducks_new_friend_q_l_9": {
+        "anim": [
+            [
+                0.2, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/baby_ducks_new_friend_q_l_9.wav", 
+        "script": "What is the meaning of auburn?"
+    }, 
+    "baby_pig_at_school_h_1": {
+        "anim": [
+            [
+                0.1, 
+                "IDLESTILL"
+            ], 
+            [
+                1.0, 
+                "SILENT_INTERESTED"
+            ]
+        ], 
+        "audio": "storyteller/questions/baby_pig_at_school_h_1.wav", 
+        "script": "Danny is putting his pig in something. Where is he putting pig?"
+    }, 
+    "baby_pig_at_school_h_2": {
+        "anim": [
+            [
+                0.1, 
+                "IDLESTILL"
+            ], 
+            [
+                1.0, 
+                "SILENT_THINKING"
+            ]
+        ], 
+        "audio": "storyteller/questions/baby_pig_at_school_h_2.wav", 
+        "script": "They look hungry. What will they do next?"
+    }, 
+    "baby_pig_at_school_h_3": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/baby_pig_at_school_h_3.wav", 
+        "script": "Look at Danny's face. How does he feel?"
+    }, 
+    "baby_pig_at_school_q_e_3": {
+        "anim": [
+            [
+                0.2, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/baby_pig_at_school_q_e_3.wav", 
+        "script": "How does Danny feel about bringing his pig to school? Can you show me with your face?"
+    }, 
+    "baby_pig_at_school_q_f_1": {
+        "anim": [
+            [
+                0.2, 
+                "SILENT_BOUNCINGTILT"
+            ]
+        ], 
+        "audio": "storyteller/questions/baby_pig_at_school_q_f_1.wav", 
+        "script": "What is Danny putting his pig in?"
+    }, 
+    "baby_pig_at_school_q_i_2": {
+        "anim": [
+            [
+                0.2, 
+                "SILENT_BOUNCINGTILT"
+            ]
+        ], 
+        "audio": "storyteller/questions/baby_pig_at_school_q_i_2.wav", 
+        "script": "What is the class doing next?"
+    }, 
+    "biscuit_h_1": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/biscuit_h_1.wav", 
+        "script": "Look at biscuit. Does he look sleepy?"
+    }, 
+    "biscuit_h_2": {
+        "anim": [
+            [
+                0.1, 
+                "PERKUP"
+            ], 
+            [
+                1.5, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/biscuit_h_2.wav", 
+        "script": "Look at biscuit's face. How does biscuit feel?"
+    }, 
+    "biscuit_q_e_2": {
+        "anim": [
+            [
+                0.2, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/biscuit_q_e_2.wav", 
+        "script": "How does biscuit feel now?"
+    }, 
+    "biscuit_q_f_1": {
+        "anim": [
+            [
+                0.2, 
+                "SILENT_BOUNCINGTILT"
+            ]
+        ], 
+        "audio": "storyteller/questions/biscuit_q_f_1.wav", 
+        "script": "Does biscuit want to go to bed?"
+    }, 
+    "bones_a_2": {
+        "anim": [
+            [
+                0.1, 
+                "IDLESTILL"
+            ], 
+            [
+                0.5, 
+                "SILENT_HAPPY_DANCE"
+            ]
+        ], 
+        "audio": "storyteller/questions/bones_a_2.wav", 
+        "script": "Ribs are a bony cage that cover the lungs. You have ribs, I have a plastic case!"
+    }, 
+    "bones_a_3": {
+        "anim": [
+            [
+                0.1, 
+                "PERKUP"
+            ], 
+            [
+                5.0, 
+                "SWAY"
+            ]
+        ], 
+        "audio": "storyteller/questions/bones_a_3.wav", 
+        "script": "Joints are places where bones need to bend. Check out my joints!"
+    }, 
+    "bones_a_4": {
+        "anim": [
+            [
+                0.1, 
+                "IDLESTILL"
+            ], 
+            [
+                2.0, 
+                "SILENT_HAPPY_WIGGLE"
+            ]
+        ], 
+        "audio": "storyteller/questions/bones_a_4.wav", 
+        "script": "Fossils are old bones that turned into rocks."
+    }, 
+    "bones_h_1": {
+        "anim": [
+            [
+                0.1, 
+                "IDLESTILL"
+            ], 
+            [
+                1.0, 
+                "SILENT_YES"
+            ]
+        ], 
+        "audio": "storyteller/questions/bones_h_1.wav", 
+        "script": "There are a lot. How many do you think there are?"
+    }, 
+    "bones_h_2": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/bones_h_2.wav", 
+        "script": "Look at the picture. What do you think ribs are?"
+    }, 
+    "bones_h_3": {
+        "anim": [
+            [
+                0.1, 
+                "IDLESTILL"
+            ], 
+            [
+                1.0, 
+                "SILENT_INTERESTED"
+            ]
+        ], 
+        "audio": "storyteller/questions/bones_h_3.wav", 
+        "script": "Look at your knees and elbows. What do they do?"
+    }, 
+    "bones_h_4": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/bones_h_4.wav", 
+        "script": "We learn about dinosaurs from fossils. What are fossils?"
+    }, 
+    "bones_q_f_1": {
+        "anim": [
+            [
+                0.2, 
+                "SILENT_BOUNCINGTILT"
+            ]
+        ], 
+        "audio": "storyteller/questions/bones_q_f_1.wav", 
+        "script": "How many bones do you have in your body?"
+    }, 
+    "bones_q_l_2": {
+        "anim": [
+            [
+                0.2, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/bones_q_l_2.wav", 
+        "script": "What are ribs?"
+    }, 
+    "bones_q_l_3": {
+        "anim": [
+            [
+                0.2, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/bones_q_l_3.wav", 
+        "script": "What are joints?"
+    }, 
+    "bones_q_l_4": {
+        "anim": [
+            [
+                0.2, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/bones_q_l_4.wav", 
+        "script": "What are fossils?"
+    }, 
+    "bos_bows_h_1": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/bos_bows_h_1.wav", 
+        "script": "Look at her bows. What patterns do they have?"
+    }, 
+    "bos_bows_h_2": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/bos_bows_h_2.wav", 
+        "script": "Look at the picture. What kinds of cakes are there?"
+    }, 
+    "bos_bows_h_3": {
+        "anim": [
+            [
+                0.1, 
+                "IDLESTILL"
+            ], 
+            [
+                0.5, 
+                "SILENT_AGREEMENT"
+            ]
+        ], 
+        "audio": "storyteller/questions/bos_bows_h_3.wav", 
+        "script": "Look at bo's face. How does she feel?"
+    }, 
+    "bos_bows_q_e_3": {
+        "anim": [
+            [
+                0.2, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/bos_bows_q_e_3.wav", 
+        "script": "How does bo feel about seeing her friends? Can you show me with your face?"
+    }, 
+    "bos_bows_q_f_1": {
+        "anim": [
+            [
+                0.2, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/bos_bows_q_f_1.wav", 
+        "script": "What are on Bo's bows?"
+    }, 
+    "bos_bows_q_f_2": {
+        "anim": [
+            [
+                0.2, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/bos_bows_q_f_2.wav", 
+        "script": "What kind of cakes will they make?"
+    }, 
+    "box_turtle_at_long_pond_a_1": {
+        "anim": [
+            [
+                0.1, 
+                "SILENT_BOUNCINGTILT"
+            ]
+        ], 
+        "audio": "storyteller/questions/box_turtle_at_long_pond_a_1.wav", 
+        "script": "Warblers are small birds!"
+    }, 
+    "box_turtle_at_long_pond_h_1": {
+        "anim": [
+            [
+                0.1, 
+                "IDLESTILL"
+            ], 
+            [
+                0.5, 
+                "HAPPY_UP"
+            ]
+        ], 
+        "audio": "storyteller/questions/box_turtle_at_long_pond_h_1.wav", 
+        "script": "Warblers can fly. What do you think they are?"
+    }, 
+    "box_turtle_at_long_pond_h_2": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/box_turtle_at_long_pond_h_2.wav", 
+        "script": "Do you think the turtle can swim?"
+    }, 
+    "box_turtle_at_long_pond_h_3": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/box_turtle_at_long_pond_h_3.wav", 
+        "script": "Look at the picture. What's Mr. Turtle eating?"
+    }, 
+    "box_turtle_at_long_pond_h_4": {
+        "anim": [
+            [
+                0.1, 
+                "SILENT_HAPPY_WIGGLE"
+            ], 
+            [
+                5.0, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/box_turtle_at_long_pond_h_4.wav", 
+        "script": "The turtle is waiting for the raccoon to leave. What will he do when she's gone?"
+    }, 
+    "box_turtle_at_long_pond_q_f_2": {
+        "anim": [
+            [
+                0.2, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/box_turtle_at_long_pond_q_f_2.wav", 
+        "script": "Can box turtles swim?"
+    }, 
+    "box_turtle_at_long_pond_q_f_3": {
+        "anim": [
+            [
+                0.2, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/box_turtle_at_long_pond_q_f_3.wav", 
+        "script": "What is the turtle eating?"
+    }, 
+    "box_turtle_at_long_pond_q_i_4": {
+        "anim": [
+            [
+                0.2, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/box_turtle_at_long_pond_q_i_4.wav", 
+        "script": "What will the turtle do next?"
+    }, 
+    "box_turtle_at_long_pond_q_l_1": {
+        "anim": [
+            [
+                0.2, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/box_turtle_at_long_pond_q_l_1.wav", 
+        "script": "What are warblers?"
+    }, 
+    "bridges_h_1": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/bridges_h_1.wav", 
+        "script": "Look at the picture. What's on the bridge?"
+    }, 
+    "bridges_h_2": {
+        "anim": [
+            [
+                0.1, 
+                "IDLESTILL"
+            ], 
+            [
+                1.0, 
+                "ROCKING"
+            ], 
+            [
+                4.0, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/bridges_h_2.wav", 
+        "script": "Maybe you drove over a bridge in a car or walked on one. What was it like?"
+    }, 
+    "bridges_q_f_1": {
+        "anim": [
+            [
+                0.2, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/bridges_q_f_1.wav", 
+        "script": "What is on the bridge?"
+    }, 
+    "bridges_q_i_2": {
+        "anim": [
+            [
+                0.2, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/bridges_q_i_2.wav", 
+        "script": "Have you ever been on a bridge?"
+    }, 
+    "building_shapes_a_2": {
+        "anim": [
+            [
+                0.1, 
+                "IDLESTILL"
+            ], 
+            [
+                1.0, 
+                "SILENT_YES"
+            ]
+        ], 
+        "audio": "storyteller/questions/building_shapes_a_2.wav", 
+        "script": "A pentagon is a shape with five sides."
+    }, 
+    "building_shapes_h_1": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/building_shapes_h_1.wav", 
+        "script": "Look at the picture. What shape is it?"
+    }, 
+    "building_shapes_h_2": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/building_shapes_h_2.wav", 
+        "script": "Look at the shape in the picture. What makes it a pentagon?"
+    }, 
+    "building_shapes_q_f_1": {
+        "anim": [
+            [
+                0.2, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/building_shapes_q_f_1.wav", 
+        "script": "What shape is this building?"
+    }, 
+    "building_shapes_q_l_2": {
+        "anim": [
+            [
+                0.2, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/building_shapes_q_l_2.wav", 
+        "script": "What is a pentagon?"
+    }, 
+    "chucks_lunch_h_1": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/chucks_lunch_h_1.wav", 
+        "script": "Look at Chuck's face. How does he feel?"
+    }, 
+    "chucks_lunch_h_2": {
+        "anim": [
+            [
+                0.1, 
+                "PERKUP"
+            ], 
+            [
+                3.5, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/chucks_lunch_h_2.wav", 
+        "script": "Chuck has asked a lot of people. Has he found his lunch?"
+    }, 
+    "chucks_lunch_h_3": {
+        "anim": [
+            [
+                0.1, 
+                "IDLESTILL"
+            ], 
+            [
+                1.0, 
+                "SILENT_THINKING"
+            ]
+        ], 
+        "audio": "storyteller/questions/chucks_lunch_h_3.wav", 
+        "script": "Look at their faces. How do they feel?"
+    }, 
+    "chucks_lunch_q_e_1": {
+        "anim": [
+            [
+                0.2, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/chucks_lunch_q_e_1.wav", 
+        "script": "How does Chuck feel about his missing lunch?"
+    }, 
+    "chucks_lunch_q_e_3": {
+        "anim": [
+            [
+                0.2, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/chucks_lunch_q_e_3.wav", 
+        "script": "How do they all feel about eating lunch? Can you show me with your face?"
+    }, 
+    "chucks_lunch_q_f_2": {
+        "anim": [
+            [
+                0.2, 
+                "SILENT_BOUNCINGTILT"
+            ]
+        ], 
+        "audio": "storyteller/questions/chucks_lunch_q_f_2.wav", 
+        "script": "Has Chuck found his lunch yet?"
+    }, 
+    "clay_art_h_1": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/clay_art_h_1.wav", 
+        "script": "Look at the picture. What is she doing?"
+    }, 
+    "clay_art_h_2": {
+        "anim": [
+            [
+                0.1, 
+                "PERKUP"
+            ], 
+            [
+                3.5, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/clay_art_h_2.wav", 
+        "script": "Look at everything she made out of clay. What would you make?"
+    }, 
+    "clay_art_q_f_1": {
+        "anim": [
+            [
+                0.2, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/clay_art_q_f_1.wav", 
+        "script": "What is she doing to the clay now?"
+    }, 
+    "clay_art_q_i_2": {
+        "anim": [
+            [
+                0.2, 
+                "SILENT_BOUNCINGTILT"
+            ]
+        ], 
+        "audio": "storyteller/questions/clay_art_q_i_2.wav", 
+        "script": "What would you make out of clay?"
+    }, 
+    "clifford_and_the_jet_h_1": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/clifford_and_the_jet_h_1.wav", 
+        "script": "Look at the picture. What is all around the jet?"
+    }, 
+    "clifford_and_the_jet_h_2": {
+        "anim": [
+            [
+                0.1, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/clifford_and_the_jet_h_2.wav", 
+        "script": "Clifford is very big. How could he help?"
+    }, 
+    "clifford_and_the_jet_h_3": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/clifford_and_the_jet_h_3.wav", 
+        "script": "Look at the picture. Whose house is that?"
+    }, 
+    "clifford_and_the_jet_q_f_1": {
+        "anim": [
+            [
+                0.2, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/clifford_and_the_jet_q_f_1.wav", 
+        "script": "Why can't the jet go?"
+    }, 
+    "clifford_and_the_jet_q_f_3": {
+        "anim": [
+            [
+                0.2, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/clifford_and_the_jet_q_f_3.wav", 
+        "script": "Where did Clifford take the people?"
+    }, 
+    "clifford_and_the_jet_q_i_2": {
+        "anim": [
+            [
+                0.2, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/clifford_and_the_jet_q_i_2.wav", 
+        "script": "What will Clifford do to help?"
+    }, 
+    "clifford_can_h_1": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/clifford_can_h_1.wav", 
+        "script": "Look at the picture. What is Clifford doing?"
+    }, 
+    "clifford_can_h_2": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/clifford_can_h_2.wav", 
+        "script": "Look at the picture. What can Clifford see?"
+    }, 
+    "clifford_can_q_f_1": {
+        "anim": [
+            [
+                0.2, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/clifford_can_q_f_1.wav", 
+        "script": "What can Clifford do?"
+    }, 
+    "clifford_can_q_f_2": {
+        "anim": [
+            [
+                0.2, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/clifford_can_q_f_2.wav", 
+        "script": "What can Clifford see?"
+    }, 
+    "clifford_is_tops_h_1": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/clifford_is_tops_h_1.wav", 
+        "script": "Look at Pop. What's wrong?"
+    }, 
+    "clifford_is_tops_h_2": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/clifford_is_tops_h_2.wav", 
+        "script": "Look at the picture. Who is on Clifford?"
+    }, 
+    "clifford_is_tops_q_f_1": {
+        "anim": [
+            [
+                0.2, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/clifford_is_tops_q_f_1.wav", 
+        "script": "Why is Pop sad?"
+    }, 
+    "clifford_is_tops_q_f_2": {
+        "anim": [
+            [
+                0.2, 
+                "SILENT_BOUNCINGTILT"
+            ]
+        ], 
+        "audio": "storyteller/questions/clifford_is_tops_q_f_2.wav", 
+        "script": "Who did Clifford bring back from the shop?"
+    }, 
+    "did_you_see_that_rabbit_a_2": {
+        "anim": [
+            [
+                0.1, 
+                "SILENT_BOUNCINGTILT"
+            ]
+        ], 
+        "audio": "storyteller/questions/did_you_see_that_rabbit_a_2.wav", 
+        "script": "A kit is a baby rabbit!"
+    }, 
+    "did_you_see_that_rabbit_h_1": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/did_you_see_that_rabbit_h_1.wav", 
+        "script": "Look at the picture. Where is the rabbit?"
+    }, 
+    "did_you_see_that_rabbit_h_2": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/did_you_see_that_rabbit_h_2.wav", 
+        "script": "Look at the picture. What are rabbit kits?"
+    }, 
+    "did_you_see_that_rabbit_h_3": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/did_you_see_that_rabbit_h_3.wav", 
+        "script": "Look at the picture. What is in the sky?"
+    }, 
+    "did_you_see_that_rabbit_q_f_1": {
+        "anim": [
+            [
+                0.2, 
+                "SILENT_BOUNCINGTILT"
+            ]
+        ], 
+        "audio": "storyteller/questions/did_you_see_that_rabbit_q_f_1.wav", 
+        "script": "Where is the rabbit?"
+    }, 
+    "did_you_see_that_rabbit_q_i_3": {
+        "anim": [
+            [
+                0.2, 
+                "SILENT_BOUNCINGTILT"
+            ]
+        ], 
+        "audio": "storyteller/questions/did_you_see_that_rabbit_q_i_3.wav", 
+        "script": "What is chasing the rabbits?"
+    }, 
+    "did_you_see_that_rabbit_q_l_2": {
+        "anim": [
+            [
+                0.2, 
+                "SILENT_BOUNCINGTILT"
+            ]
+        ], 
+        "audio": "storyteller/questions/did_you_see_that_rabbit_q_l_2.wav", 
+        "script": "What is a kit?"
+    }, 
+    "dinosaur_hall_h_1": {
+        "anim": [
+            [
+                0.1, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/dinosaur_hall_h_1.wav", 
+        "script": "It's called Dinosaur hall. What might be there?"
+    }, 
+    "dinosaur_hall_h_2": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/dinosaur_hall_h_2.wav", 
+        "script": "Look at the picture. There are some dinosaurs. How big are they?"
+    }, 
+    "dinosaur_hall_h_3": {
+        "anim": [
+            [
+                0.1, 
+                "SILENT_INTERESTED"
+            ]
+        ], 
+        "audio": "storyteller/questions/dinosaur_hall_h_3.wav", 
+        "script": "Have you seen a dinosaur in a museum or in a book?"
+    }, 
+    "dinosaur_hall_q_f_2": {
+        "anim": [
+            [
+                0.2, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/dinosaur_hall_q_f_2.wav", 
+        "script": "How big are these dinosaurs?"
+    }, 
+    "dinosaur_hall_q_i_1": {
+        "anim": [
+            [
+                0.2, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/dinosaur_hall_q_i_1.wav", 
+        "script": "What do you think is in Dinosaur Hall?"
+    }, 
+    "dinosaur_hall_q_i_3": {
+        "anim": [
+            [
+                0.2, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/dinosaur_hall_q_i_3.wav", 
+        "script": "Have you ever seen a dinosaur?"
+    }, 
+    "dog_went_for_a_walk_h_1": {
+        "anim": [
+            [
+                0.1, 
+                "IDLESTILL"
+            ]
+        ], 
+        "audio": "storyteller/questions/dog_went_for_a_walk_h_1.wav", 
+        "script": "Look where dog is. why is he wet?"
+    }, 
+    "dog_went_for_a_walk_h_2": {
+        "anim": [
+            [
+                0.1, 
+                "IDLESTILL"
+            ]
+        ], 
+        "audio": "storyteller/questions/dog_went_for_a_walk_h_2.wav", 
+        "script": "Look at dog's face. How do you think he feels about the bath?"
+    }, 
+    "dog_went_for_a_walk_q_f_1": {
+        "anim": [
+            [
+                0.2, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/dog_went_for_a_walk_q_f_1.wav", 
+        "script": "Why did dog get wet?"
+    }, 
+    "dog_went_for_a_walk_q_i_2": {
+        "anim": [
+            [
+                0.2, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/dog_went_for_a_walk_q_i_2.wav", 
+        "script": "Do you think dog likes taking a bath?"
+    }, 
+    "donkey_and_monkey_h_1": {
+        "anim": [
+            [
+                0.1, 
+                "IDLESTILL"
+            ], 
+            [
+                1.0, 
+                "SILENT_PUZZLED"
+            ]
+        ], 
+        "audio": "storyteller/questions/donkey_and_monkey_h_1.wav", 
+        "script": "Look at the picture. How do they feel?"
+    }, 
+    "donkey_and_monkey_h_2": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/donkey_and_monkey_h_2.wav", 
+        "script": "Look a the picture. What is Monkey holding?"
+    }, 
+    "donkey_and_monkey_h_3": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/donkey_and_monkey_h_3.wav", 
+        "script": "Look at the picture. What was in the box?"
+    }, 
+    "donkey_and_monkey_h_4": {
+        "anim": [
+            [
+                0.1, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/donkey_and_monkey_h_4.wav", 
+        "script": "It could be anything! What do you think?"
+    }, 
+    "donkey_and_monkey_q_e_1": {
+        "anim": [
+            [
+                0.2, 
+                "SILENT_BOUNCINGTILT"
+            ]
+        ], 
+        "audio": "storyteller/questions/donkey_and_monkey_q_e_1.wav", 
+        "script": "How do Monkey and Donkey feel? Can you show me with your face?"
+    }, 
+    "donkey_and_monkey_q_f_2": {
+        "anim": [
+            [
+                0.2, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/donkey_and_monkey_q_f_2.wav", 
+        "script": "What did Monkey find?"
+    }, 
+    "donkey_and_monkey_q_f_3": {
+        "anim": [
+            [
+                0.2, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/donkey_and_monkey_q_f_3.wav", 
+        "script": "What was in the box?"
+    }, 
+    "donkey_and_monkey_q_i_4": {
+        "anim": [
+            [
+                0.2, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/donkey_and_monkey_q_i_4.wav", 
+        "script": "What do you think Donkey and Monkey will find in the grass?"
+    }, 
+    "drip_drop_drip_h_1": {
+        "anim": [
+            [
+                0.1, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/drip_drop_drip_h_1.wav", 
+        "script": "Look at the cats. Do you think they like the rain?"
+    }, 
+    "drip_drop_drip_h_2": {
+        "anim": [
+            [
+                0.1, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/drip_drop_drip_h_2.wav", 
+        "script": "Look at the kids' faces. How do they feel?"
+    }, 
+    "drip_drop_drip_q_e_2": {
+        "anim": [
+            [
+                0.2, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/drip_drop_drip_q_e_2.wav", 
+        "script": "How do the kids feel about the rain? Can you show me with your face?"
+    }, 
+    "drip_drop_drip_q_i_1": {
+        "anim": [
+            [
+                0.2, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/drip_drop_drip_q_i_1.wav", 
+        "script": "Do cats like the rain?"
+    }, 
+    "follow_it_h_1": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/follow_it_h_1.wav", 
+        "script": "Look at the picture. Is that rabbit's house? Where does he live?"
+    }, 
+    "follow_it_h_2": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/follow_it_h_2.wav", 
+        "script": "Look at rabbit's face. How does rabbit feel?"
+    }, 
+    "follow_it_h_3": {
+        "anim": [
+            [
+                0.1, 
+                "SILENT_BOUNCINGTILT"
+            ]
+        ], 
+        "audio": "storyteller/questions/follow_it_h_3.wav", 
+        "script": "Crow said they needed paper. What are they making?"
+    }, 
+    "follow_it_q_e_2": {
+        "anim": [
+            [
+                0.2, 
+                "SILENT_BOUNCINGTILT"
+            ]
+        ], 
+        "audio": "storyteller/questions/follow_it_q_e_2.wav", 
+        "script": "How does rabbit feel about not being able to fly? Can you show me with your face?"
+    }, 
+    "follow_it_q_f_1": {
+        "anim": [
+            [
+                0.2, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/follow_it_q_f_1.wav", 
+        "script": "Where does rabbit live?"
+    }, 
+    "follow_it_q_i_3": {
+        "anim": [
+            [
+                0.2, 
+                "SILENT_BOUNCINGTILT"
+            ]
+        ], 
+        "audio": "storyteller/questions/follow_it_q_i_3.wav", 
+        "script": "What are they going to make?"
+    }, 
+    "freda_says_please_h_1": {
+        "anim": [
+            [
+                0.1, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/freda_says_please_h_1.wav", 
+        "script": "Look at the picture. How does Percy look? Can you show me with your face?"
+    }, 
+    "freda_says_please_h_2": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/freda_says_please_h_2.wav", 
+        "script": "Look at the picture. Do you see a dog and a girl waving?"
+    }, 
+    "freda_says_please_h_3": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/freda_says_please_h_3.wav", 
+        "script": "Look at the picture. What are they playing?"
+    }, 
+    "freda_says_please_q_e_1": {
+        "anim": [
+            [
+                0.2, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/freda_says_please_q_e_1.wav", 
+        "script": "How did Percy feel? Can you show me with your face?"
+    }, 
+    "freda_says_please_q_f_2": {
+        "anim": [
+            [
+                0.2, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/freda_says_please_q_f_2.wav", 
+        "script": "Who wanted to join Freda and Percy outside?"
+    }, 
+    "freda_says_please_q_f_3": {
+        "anim": [
+            [
+                0.2, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/freda_says_please_q_f_3.wav", 
+        "script": "What game did everyone play at recess?"
+    }, 
+    "friends_h_1": {
+        "anim": [
+            [
+                0.1, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/friends_h_1.wav", 
+        "script": "Look at the size of Emily Elizabeth's lap!"
+    }, 
+    "friends_h_2": {
+        "anim": [
+            [
+                0.1, 
+                "PERKUP"
+            ], 
+            [
+                5.0, 
+                "SILENT_CONFIRM"
+            ]
+        ], 
+        "audio": "storyteller/questions/friends_h_2.wav", 
+        "script": "Look at Emily Elizabeth, Cleo, and T-bone on Clifford's back. How do they look? Can you show me with your face?"
+    }, 
+    "friends_q_e_2": {
+        "anim": [
+            [
+                0.2, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/friends_q_e_2.wav", 
+        "script": "How do you think everyone feels when Clifford lifts them up? Can you show me with your face?"
+    }, 
+    "friends_q_f_1": {
+        "anim": [
+            [
+                0.2, 
+                "SILENT_BOUNCINGTILT"
+            ]
+        ], 
+        "audio": "storyteller/questions/friends_q_f_1.wav", 
+        "script": "Why can't Clifford sit on Emily Elizabeth's lap?"
+    }, 
+    "frogs_h_1": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/frogs_h_1.wav", 
+        "script": "Look at the picture! How does the frog look?"
+    }, 
+    "frogs_h_2": {
+        "anim": [
+            [
+                0.1, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/frogs_h_2.wav", 
+        "script": "It starts with a T."
+    }, 
+    "frogs_q_f_1": {
+        "anim": [
+            [
+                0.2, 
+                "SILENT_BOUNCINGTILT"
+            ]
+        ], 
+        "audio": "storyteller/questions/frogs_q_f_1.wav", 
+        "script": "How do you think the frog feels after eating a bug?"
+    }, 
+    "frogs_q_f_2": {
+        "anim": [
+            [
+                0.2, 
+                "SILENT_BOUNCINGTILT"
+            ]
+        ], 
+        "audio": "storyteller/questions/frogs_q_f_2.wav", 
+        "script": "What are frogs called when they are babies?"
+    }, 
+    "geraldine_first_h_1": {
+        "anim": [
+            [
+                0.1, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/geraldine_first_h_1.wav", 
+        "script": "Look at her face! How does it look? Can you show me?"
+    }, 
+    "geraldine_first_h_2": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/geraldine_first_h_2.wav", 
+        "script": "Look at the picture! What are they doing with the blocks?"
+    }, 
+    "geraldine_first_h_3": {
+        "anim": [
+            [
+                0.1, 
+                "IDLESTILL"
+            ], 
+            [
+                1.0, 
+                "SILENT_THINKING"
+            ]
+        ], 
+        "audio": "storyteller/questions/geraldine_first_h_3.wav", 
+        "script": "Think about what Willie kept doing."
+    }, 
+    "geraldine_first_q_e_1": {
+        "anim": [
+            [
+                0.2, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/geraldine_first_q_e_1.wav", 
+        "script": "How does Geraldine feel about carrots? Can you show me with your face?"
+    }, 
+    "geraldine_first_q_f_2": {
+        "anim": [
+            [
+                0.2, 
+                "SILENT_BOUNCINGTILT"
+            ]
+        ], 
+        "audio": "storyteller/questions/geraldine_first_q_f_2.wav", 
+        "script": "What were Geraldine and Willie doing in her room?"
+    }, 
+    "geraldine_first_q_f_3": {
+        "anim": [
+            [
+                0.2, 
+                "SILENT_BOUNCINGTILT"
+            ]
+        ], 
+        "audio": "storyteller/questions/geraldine_first_q_f_3.wav", 
+        "script": "Why was Geraldine angry at Willie?"
+    }, 
+    "goats_book_h_1": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/goats_book_h_1.wav", 
+        "script": "Look at the picture. Why did Goat's boat fall over?"
+    }, 
+    "goats_book_h_2": {
+        "anim": [
+            [
+                0.1, 
+                "SILENT_BOUNCINGTILT"
+            ], 
+            [
+                4.0, 
+                "SILENT_NOD"
+            ]
+        ], 
+        "audio": "storyteller/questions/goats_book_h_2.wav", 
+        "script": "The goat did a little trick with the crayon behind his back. Do you remember what it was?"
+    }, 
+    "goats_book_q_f_1": {
+        "anim": [
+            [
+                0.2, 
+                "SILENT_BOUNCINGTILT"
+            ]
+        ], 
+        "audio": "storyteller/questions/goats_book_q_f_1.wav", 
+        "script": "Why didn't Goat's boat float?"
+    }, 
+    "goats_book_q_f_2": {
+        "anim": [
+            [
+                0.2, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/goats_book_q_f_2.wav", 
+        "script": "How did Goat know what color the crayon was?"
+    }, 
+    "hairy_maclarys_bone_h_1": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/hairy_maclarys_bone_h_1.wav", 
+        "script": "Look at the picture. How many dogs are behind him?"
+    }, 
+    "hairy_maclarys_bone_h_2": {
+        "anim": [
+            [
+                0.1, 
+                "IDLESTILL"
+            ], 
+            [
+                1.0, 
+                "SILENT_NO"
+            ]
+        ], 
+        "audio": "storyteller/questions/hairy_maclarys_bone_h_2.wav", 
+        "script": "It wasn't Schnitzel von Krumm!"
+    }, 
+    "hairy_maclarys_bone_h_3": {
+        "anim": [
+            [
+                0.1, 
+                "PERKUP"
+            ], 
+            [
+                1.0, 
+                "SILENT_HAPPY_DANCE"
+            ]
+        ], 
+        "audio": "storyteller/questions/hairy_maclarys_bone_h_3.wav", 
+        "script": "Look at the picture. He got to keep the bone all to himself."
+    }, 
+    "hairy_maclarys_bone_q_e_3": {
+        "anim": [
+            [
+                0.2, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/hairy_maclarys_bone_q_e_3.wav", 
+        "script": "How did Hairy Maclary feel at the end? Can you show me with your face?"
+    }, 
+    "hairy_maclarys_bone_q_f_1": {
+        "anim": [
+            [
+                0.2, 
+                "SILENT_BOUNCINGTILT"
+            ]
+        ], 
+        "audio": "storyteller/questions/hairy_maclarys_bone_q_f_1.wav", 
+        "script": "How many dogs are chasing Hairy Maclary?"
+    }, 
+    "hairy_maclarys_bone_q_f_2": {
+        "anim": [
+            [
+                0.2, 
+                "SILENT_BOUNCINGTILT"
+            ]
+        ], 
+        "audio": "storyteller/questions/hairy_maclarys_bone_q_f_2.wav", 
+        "script": "Who made it over the wall?"
+    }, 
+    "happy_birthday_clifford_h_1": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/happy_birthday_clifford_h_1.wav", 
+        "script": "Look at the picture. What is in Emily Elizabeth's hands?"
+    }, 
+    "happy_birthday_clifford_h_2": {
+        "anim": [
+            [
+                0.1, 
+                "IDLESTILL"
+            ]
+        ], 
+        "audio": "storyteller/questions/happy_birthday_clifford_h_2.wav", 
+        "script": "Look at the picture. Do you see where Clifford is?"
+    }, 
+    "happy_birthday_clifford_q_f_1": {
+        "anim": [
+            [
+                0.2, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/happy_birthday_clifford_q_f_1.wav", 
+        "script": "What is Emily Elizabeth holding?"
+    }, 
+    "happy_birthday_clifford_q_f_2": {
+        "anim": [
+            [
+                0.2, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/happy_birthday_clifford_q_f_2.wav", 
+        "script": "Where is Clifford?"
+    }, 
+    "he_likes_she_likes_h_1": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/he_likes_she_likes_h_1.wav", 
+        "script": "Here is a hint. They all start with the letter L."
+    }, 
+    "he_likes_she_likes_q_f_1": {
+        "anim": [
+            [
+                0.2, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/he_likes_she_likes_q_f_1.wav", 
+        "script": "What are two things that he and she like?"
+    }, 
+    "hello_clifford_h_1": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/hello_clifford_h_1.wav", 
+        "script": "Look at the picture. What is in the woman's hand?"
+    }, 
+    "hello_clifford_h_2": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/hello_clifford_h_2.wav", 
+        "script": "Look at the picture. What color is the dog?"
+    }, 
+    "hello_clifford_q_f_1": {
+        "anim": [
+            [
+                0.2, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/hello_clifford_q_f_1.wav", 
+        "script": "What is the lady giving Cleo?"
+    }, 
+    "hello_clifford_q_f_2": {
+        "anim": [
+            [
+                0.2, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/hello_clifford_q_f_2.wav", 
+        "script": "What color is T-bone?"
+    }, 
+    "hen_pens_joke_h_1": {
+        "anim": [
+            [
+                0.1, 
+                "PERKUP"
+            ], 
+            [
+                1.0, 
+                "SILENT_INTERESTED"
+            ]
+        ], 
+        "audio": "storyteller/questions/hen_pens_joke_h_1.wav", 
+        "script": "Take your best guess! Can the sky fall?"
+    }, 
+    "hen_pens_joke_h_2": {
+        "anim": [
+            [
+                0.1, 
+                "IDLESTILL"
+            ], 
+            [
+                1.0, 
+                "SILENT_NOD"
+            ]
+        ], 
+        "audio": "storyteller/questions/hen_pens_joke_h_2.wav", 
+        "script": "Here's a hint. He's really wise!"
+    }, 
+    "hen_pens_joke_h_3": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/hen_pens_joke_h_3.wav", 
+        "script": "Look at the picture. What is Fox Lox doing?"
+    }, 
+    "hen_pens_joke_q_f_2": {
+        "anim": [
+            [
+                0.2, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/hen_pens_joke_q_f_2.wav", 
+        "script": "Who were they trying to tell about the sky falling?"
+    }, 
+    "hen_pens_joke_q_f_3": {
+        "anim": [
+            [
+                0.2, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/hen_pens_joke_q_f_3.wav", 
+        "script": "Was Fox Lox trying to help Hen Pen, Duck Luck, Chick Quick, and Drake Lake or trick them?"
+    }, 
+    "hen_pens_joke_q_i_1": {
+        "anim": [
+            [
+                0.2, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/hen_pens_joke_q_i_1.wav", 
+        "script": "Do you think Hen Pen is right about the sky falling?"
+    }, 
+    "henrys_happy_birthday_a_1": {
+        "anim": [
+            [
+                0.1, 
+                "IDLESTILL"
+            ], 
+            [
+                1.0, 
+                "SILENT_YES"
+            ], 
+            [
+                4.0, 
+                "SWAY"
+            ], 
+            [
+                8.0, 
+                "SILENT_HAPPY_WIGGLE"
+            ], 
+            [
+                11.0, 
+                "SILENT_LAUGH"
+            ]
+        ], 
+        "audio": "storyteller/questions/henrys_happy_birthday_a_1.wav", 
+        "script": "A spatula is what's in Henry's mom's hand. It's used to scoop, or mix, or spread things while cooking. For a small robot like me, I could probably use it to row a boat!"
+    }, 
+    "henrys_happy_birthday_a_3": {
+        "anim": [
+            [
+                0.1, 
+                "IDLESTILL"
+            ], 
+            [
+                1.0, 
+                "SILENT_BOUNCINGTILT"
+            ], 
+            [
+                4.0, 
+                "SILENT_HAPPY_DANCE"
+            ]
+        ], 
+        "audio": "storyteller/questions/henrys_happy_birthday_a_3.wav", 
+        "script": "Bunting is a decoration like flags. For my birthday, I had a bunting that said 'Happy Birthday!'"
+    }, 
+    "henrys_happy_birthday_a_4": {
+        "anim": [
+            [
+                0.1, 
+                "PERKUP"
+            ], 
+            [
+                2.0, 
+                "SILENT_LEFTRIGHTLOOKING"
+            ]
+        ], 
+        "audio": "storyteller/questions/henrys_happy_birthday_a_4.wav", 
+        "script": "Zig-zag is a line that goes left, right, left, right! Like lightning on Henry's shirt!"
+    }, 
+    "henrys_happy_birthday_a_5": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/henrys_happy_birthday_a_5.wav", 
+        "script": "Donned means put on. Look! I donned my red outfit this morning!"
+    }, 
+    "henrys_happy_birthday_a_6": {
+        "anim": [
+            [
+                0.1, 
+                "IDLESTILL"
+            ], 
+            [
+                1.0, 
+                "SILENT_NO"
+            ]
+        ], 
+        "audio": "storyteller/questions/henrys_happy_birthday_a_6.wav", 
+        "script": "Unruly means not in order. Like when no one listens to their teacher and keeps shouting and running in a classroom."
+    }, 
+    "henrys_happy_birthday_h_1": {
+        "anim": [
+            [
+                0.1, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/henrys_happy_birthday_h_1.wav", 
+        "script": "Hint! It's used when cooking."
+    }, 
+    "henrys_happy_birthday_h_2": {
+        "anim": [
+            [
+                0.1, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/henrys_happy_birthday_h_2.wav", 
+        "script": "Here's a hint. Was it vanilla or chocolate?"
+    }, 
+    "henrys_happy_birthday_h_3": {
+        "anim": [
+            [
+                0.1, 
+                "HAPPY_UP"
+            ]
+        ], 
+        "audio": "storyteller/questions/henrys_happy_birthday_h_3.wav", 
+        "script": "what's above the dining room table?"
+    }, 
+    "henrys_happy_birthday_h_4": {
+        "anim": [
+            [
+                0.1, 
+                "SILENT_LEFTRIGHTLOOKING"
+            ]
+        ], 
+        "audio": "storyteller/questions/henrys_happy_birthday_h_4.wav", 
+        "script": "zig-zag, zig-zag"
+    }, 
+    "henrys_happy_birthday_h_5": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/henrys_happy_birthday_h_5.wav", 
+        "script": "What's Henry doing in the picture?"
+    }, 
+    "henrys_happy_birthday_h_6": {
+        "anim": [
+            [
+                0.1, 
+                "PERKUP"
+            ], 
+            [
+                1.0, 
+                "SILENT_NO"
+            ]
+        ], 
+        "audio": "storyteller/questions/henrys_happy_birthday_h_6.wav", 
+        "script": "What happens when no one listens to the teacher?"
+    }, 
+    "henrys_happy_birthday_h_7": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/henrys_happy_birthday_h_7.wav", 
+        "script": "Look at the picture. How does Henry look? Can you show me with your face?"
+    }, 
+    "henrys_happy_birthday_h_8": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/henrys_happy_birthday_h_8.wav", 
+        "script": "Look at the picture. How does Henry look?"
+    }, 
+    "henrys_happy_birthday_q_e_7": {
+        "anim": [
+            [
+                0.2, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/henrys_happy_birthday_q_e_7.wav", 
+        "script": "How did Henry feel about his birthday when he blew out the candles? Can you show me with your face?"
+    }, 
+    "henrys_happy_birthday_q_e_8": {
+        "anim": [
+            [
+                0.2, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/henrys_happy_birthday_q_e_8.wav", 
+        "script": "How did Henry feel about his birthday party at the end?"
+    }, 
+    "henrys_happy_birthday_q_f_2": {
+        "anim": [
+            [
+                0.2, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/henrys_happy_birthday_q_f_2.wav", 
+        "script": "What kind of cake did Henry want?"
+    }, 
+    "henrys_happy_birthday_q_l_1": {
+        "anim": [
+            [
+                0.2, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/henrys_happy_birthday_q_l_1.wav", 
+        "script": "What is a spatula?"
+    }, 
+    "henrys_happy_birthday_q_l_3": {
+        "anim": [
+            [
+                0.2, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/henrys_happy_birthday_q_l_3.wav", 
+        "script": "Do you know what bunting means?"
+    }, 
+    "henrys_happy_birthday_q_l_4": {
+        "anim": [
+            [
+                0.2, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/henrys_happy_birthday_q_l_4.wav", 
+        "script": "What is zig-zag?"
+    }, 
+    "henrys_happy_birthday_q_l_5": {
+        "anim": [
+            [
+                0.2, 
+                "SILENT_BOUNCINGTILT"
+            ]
+        ], 
+        "audio": "storyteller/questions/henrys_happy_birthday_q_l_5.wav", 
+        "script": "Do you know what donned means?"
+    }, 
+    "henrys_happy_birthday_q_l_6": {
+        "anim": [
+            [
+                0.2, 
+                "SILENT_BOUNCINGTILT"
+            ]
+        ], 
+        "audio": "storyteller/questions/henrys_happy_birthday_q_l_6.wav", 
+        "script": "What does unruly mean?"
+    }, 
+    "i_see_h_1": {
+        "anim": [
+            [
+                0.1, 
+                "SILENT_BOUNCINGTILT"
+            ]
+        ], 
+        "audio": "storyteller/questions/i_see_h_1.wav", 
+        "script": "Here's a hint. Her name starts with the letter Q."
+    }, 
+    "i_see_h_2": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/i_see_h_2.wav", 
+        "script": "Look at the picture. Do you see the animal with the tail?"
+    }, 
+    "i_see_my_dad_h_1": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/i_see_my_dad_h_1.wav", 
+        "script": "Look at the picture. How does Emily Elizabeth look? Can you show me with your face?"
+    }, 
+    "i_see_my_dad_h_2": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/i_see_my_dad_h_2.wav", 
+        "script": "Look at the picture. What are they doing?"
+    }, 
+    "i_see_my_dad_q_e_1": {
+        "anim": [
+            [
+                0.2, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/i_see_my_dad_q_e_1.wav", 
+        "script": "How does Emily Elizabeth feel when she sees her dad? Can you show me with your face?"
+    }, 
+    "i_see_my_dad_q_f_2": {
+        "anim": [
+            [
+                0.2, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/i_see_my_dad_q_f_2.wav", 
+        "script": "What are Charlie and his dad doing?"
+    }, 
+    "i_see_q_f_1": {
+        "anim": [
+            [
+                0.2, 
+                "SILENT_BOUNCINGTILT"
+            ]
+        ], 
+        "audio": "storyteller/questions/i_see_q_f_1.wav", 
+        "script": "Look at the picture. Who is holding the letter Q?"
+    }, 
+    "i_see_q_f_2": {
+        "anim": [
+            [
+                0.2, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/i_see_q_f_2.wav", 
+        "script": "What is holding the letter T?"
+    }, 
+    "in_the_woods_whos_been_here_h_1": {
+        "anim": [
+            [
+                0.1, 
+                "IDLESTILL"
+            ], 
+            [
+                1.0, 
+                "SILENT_BOUNCINGTILT"
+            ]
+        ], 
+        "audio": "storyteller/questions/in_the_woods_whos_been_here_h_1.wav", 
+        "script": "What animal is usually in a nest?"
+    }, 
+    "in_the_woods_whos_been_here_h_2": {
+        "anim": [
+            [
+                0.1, 
+                "IDLESTILL"
+            ], 
+            [
+                1.0, 
+                "SILENT_INTERESTED"
+            ]
+        ], 
+        "audio": "storyteller/questions/in_the_woods_whos_been_here_h_2.wav", 
+        "script": "Here's a hint. It starts with the letter M."
+    }, 
+    "in_the_woods_whos_been_here_h_3": {
+        "anim": [
+            [
+                0.1, 
+                "IDLESTILL"
+            ], 
+            [
+                1.0, 
+                "SILENT_INTERESTED"
+            ]
+        ], 
+        "audio": "storyteller/questions/in_the_woods_whos_been_here_h_3.wav", 
+        "script": "Here's a hint. It starts with the letter S."
+    }, 
+    "in_the_woods_whos_been_here_q_f_2": {
+        "anim": [
+            [
+                0.2, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/in_the_woods_whos_been_here_q_f_2.wav", 
+        "script": "What kind of butterfly did they find?"
+    }, 
+    "in_the_woods_whos_been_here_q_f_3": {
+        "anim": [
+            [
+                0.2, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/in_the_woods_whos_been_here_q_f_3.wav", 
+        "script": "Do you remember the dog's name?"
+    }, 
+    "in_the_woods_whos_been_here_q_i_1": {
+        "anim": [
+            [
+                0.2, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/in_the_woods_whos_been_here_q_i_1.wav", 
+        "script": "Who do you think they will find in the nest?"
+    }, 
+    "jane_and_jake_bake_a_cake_h_1": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/jane_and_jake_bake_a_cake_h_1.wav", 
+        "script": "Its something in the kitchen. What are they going to make?"
+    }, 
+    "jane_and_jake_bake_a_cake_h_2": {
+        "anim": [
+            [
+                0.1, 
+                "IDLESTILL"
+            ], 
+            [
+                1.0, 
+                "SILENT_LEFTRIGHTLOOKING"
+            ]
+        ], 
+        "audio": "storyteller/questions/jane_and_jake_bake_a_cake_h_2.wav", 
+        "script": "Is it Jane or Jake?"
+    }, 
+    "jane_and_jake_bake_a_cake_h_3": {
+        "anim": [
+            [
+                0.1, 
+                "PERKUP"
+            ], 
+            [
+                2.0, 
+                "SILENT_NO"
+            ]
+        ], 
+        "audio": "storyteller/questions/jane_and_jake_bake_a_cake_h_3.wav", 
+        "script": "Here's a hint. It was the last thing Jake put in the cake."
+    }, 
+    "jane_and_jake_bake_a_cake_q_f_1": {
+        "anim": [
+            [
+                0.2, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/jane_and_jake_bake_a_cake_q_f_1.wav", 
+        "script": "What do Jake and Jane decide to do since its raining outside?"
+    }, 
+    "jane_and_jake_bake_a_cake_q_f_2": {
+        "anim": [
+            [
+                0.2, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/jane_and_jake_bake_a_cake_q_f_2.wav", 
+        "script": "Who finished getting their cake ready to bake first?"
+    }, 
+    "jane_and_jake_bake_a_cake_q_i_3": {
+        "anim": [
+            [
+                0.2, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/jane_and_jake_bake_a_cake_q_i_3.wav", 
+        "script": "What do you think made the cake POP?"
+    }, 
+    "jazz_class_h_1": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/jazz_class_h_1.wav", 
+        "script": "Look at the picture. Where is Jan pointing?"
+    }, 
+    "jazz_class_h_2": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/jazz_class_h_2.wav", 
+        "script": "Look at the picture. How does Jan look?"
+    }, 
+    "jazz_class_q_e_2": {
+        "anim": [
+            [
+                0.2, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/jazz_class_q_e_2.wav", 
+        "script": "How does Jan feel when she does jazz? Can you show me with your face?"
+    }, 
+    "jazz_class_q_f_1": {
+        "anim": [
+            [
+                0.2, 
+                "SILENT_BOUNCINGTILT"
+            ]
+        ], 
+        "audio": "storyteller/questions/jazz_class_q_f_1.wav", 
+        "script": "Where does Jan want to go?"
+    }, 
+    "left_right_emma_h_1": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/left_right_emma_h_1.wav", 
+        "script": "Look at the picture. Do you see Emma's hand up?"
+    }, 
+    "left_right_emma_h_2": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/left_right_emma_h_2.wav", 
+        "script": "Look at the pictures. Do you see the lines?"
+    }, 
+    "left_right_emma_h_3": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/left_right_emma_h_3.wav", 
+        "script": "Look at the picture. Do you see what the teacher did to help Emma remember?"
+    }, 
+    "left_right_emma_q_f_1": {
+        "anim": [
+            [
+                0.2, 
+                "SILENT_BOUNCINGTILT"
+            ]
+        ], 
+        "audio": "storyteller/questions/left_right_emma_q_f_1.wav", 
+        "script": "Did Emma raise her hand to be leader?"
+    }, 
+    "left_right_emma_q_f_2": {
+        "anim": [
+            [
+                0.2, 
+                "SILENT_BOUNCINGTILT"
+            ]
+        ], 
+        "audio": "storyteller/questions/left_right_emma_q_f_2.wav", 
+        "script": "How many lines did Emma ask her friends to make?"
+    }, 
+    "left_right_emma_q_f_3": {
+        "anim": [
+            [
+                0.2, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/left_right_emma_q_f_3.wav", 
+        "script": "How did Emma remember which side was right and which way was left?"
+    }, 
+    "maxs_pet_h_1": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/maxs_pet_h_1.wav", 
+        "script": "Look at the picture. How does Max look? Can you show me with your face?"
+    }, 
+    "maxs_pet_h_2": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/maxs_pet_h_2.wav", 
+        "script": "Look at the picture. What do you see?"
+    }, 
+    "maxs_pet_q_e_1": {
+        "anim": [
+            [
+                0.2, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/maxs_pet_q_e_1.wav", 
+        "script": "How did Max feel when he got no pets? Can you show me with your face?"
+    }, 
+    "maxs_pet_q_f_2": {
+        "anim": [
+            [
+                0.2, 
+                "SILENT_BOUNCINGTILT"
+            ]
+        ], 
+        "audio": "storyteller/questions/maxs_pet_q_f_2.wav", 
+        "script": "What is in the big box?"
+    }, 
+    "mice_on_ice_h_1": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/mice_on_ice_h_1.wav", 
+        "script": "Look at the picture. What happened to the mice?"
+    }, 
+    "mice_on_ice_h_2": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/mice_on_ice_h_2.wav", 
+        "script": "Look at the picture. Where are the mice sitting?"
+    }, 
+    "mice_on_ice_h_3": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/mice_on_ice_h_3.wav", 
+        "script": "Look at the mice. How do they look?"
+    }, 
+    "mice_on_ice_q_f_2": {
+        "anim": [
+            [
+                0.2, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/mice_on_ice_q_f_2.wav", 
+        "script": "Where did the mice sit on the fox?"
+    }, 
+    "mice_on_ice_q_f_3": {
+        "anim": [
+            [
+                0.2, 
+                "SILENT_BOUNCINGTILT"
+            ]
+        ], 
+        "audio": "storyteller/questions/mice_on_ice_q_f_3.wav", 
+        "script": "Why did the mice decide to go home?"
+    }, 
+    "mice_on_ice_q_i_1": {
+        "anim": [
+            [
+                0.2, 
+                "SILENT_BOUNCINGTILT"
+            ]
+        ], 
+        "audio": "storyteller/questions/mice_on_ice_q_i_1.wav", 
+        "script": "What do you think will happen when the mice go on the broken branch?"
+    }, 
+    "mmm_i_like_h_1": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/mmm_i_like_h_1.wav", 
+        "script": "Look at the picture. What is in the monkey's hands?"
+    }, 
+    "mmm_i_like_h_2": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/mmm_i_like_h_2.wav", 
+        "script": "Look at the picture. What is on the plate?"
+    }, 
+    "mmm_i_like_q_f_1": {
+        "anim": [
+            [
+                0.2, 
+                "SILENT_BOUNCINGTILT"
+            ]
+        ], 
+        "audio": "storyteller/questions/mmm_i_like_q_f_1.wav", 
+        "script": "What is the monkey holding?"
+    }, 
+    "mmm_i_like_q_f_2": {
+        "anim": [
+            [
+                0.2, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/mmm_i_like_q_f_2.wav", 
+        "script": "What is the hippo eating with the milk?"
+    }, 
+    "my_dogs_the_best_h_1": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/my_dogs_the_best_h_1.wav", 
+        "script": "Look at the picture. What do you see on the dog's tail?"
+    }, 
+    "my_dogs_the_best_h_2": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/my_dogs_the_best_h_2.wav", 
+        "script": "Look at the picture. Do you see what the dog is doing?"
+    }, 
+    "my_dogs_the_best_q_f_1": {
+        "anim": [
+            [
+                0.2, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/my_dogs_the_best_q_f_1.wav", 
+        "script": "What does the dog have on her tail?"
+    }, 
+    "my_dogs_the_best_q_f_2": {
+        "anim": [
+            [
+                0.2, 
+                "SILENT_BOUNCINGTILT"
+            ]
+        ], 
+        "audio": "storyteller/questions/my_dogs_the_best_q_f_2.wav", 
+        "script": "What is the dog doing to the boy's face?"
+    }, 
+    "no_fun_for_gus_h_1": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ], 
+            [
+                4.0, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/no_fun_for_gus_h_1.wav", 
+        "script": "Look at the picture. How does Gus look? Can you show me with your face?"
+    }, 
+    "no_fun_for_gus_h_2": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/no_fun_for_gus_h_2.wav", 
+        "script": "Look at the picture. What is Gus doing?"
+    }, 
+    "no_fun_for_gus_q_e_1": {
+        "anim": [
+            [
+                0.2, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/no_fun_for_gus_q_e_1.wav", 
+        "script": "How do you think Gus feels? Can you show me with your face?"
+    }, 
+    "no_fun_for_gus_q_f_2": {
+        "anim": [
+            [
+                0.2, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/no_fun_for_gus_q_f_2.wav", 
+        "script": "What is Gus playing?"
+    }, 
+    "ord_eats_a_pizza_h_1": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/ord_eats_a_pizza_h_1.wav", 
+        "script": "Look at the picture. Who tossed the pizza?"
+    }, 
+    "ord_eats_a_pizza_h_2": {
+        "anim": [
+            [
+                0.1, 
+                "PERKUP"
+            ], 
+            [
+                1.5, 
+                "SILENT_HAPPY_WIGGLE"
+            ]
+        ], 
+        "audio": "storyteller/questions/ord_eats_a_pizza_h_2.wav", 
+        "script": "Here's a hint. He loves pizza!"
+    }, 
+    "ord_eats_a_pizza_q_f_1": {
+        "anim": [
+            [
+                0.2, 
+                "SILENT_BOUNCINGTILT"
+            ]
+        ], 
+        "audio": "storyteller/questions/ord_eats_a_pizza_q_f_1.wav", 
+        "script": "Who tossed up the pizza?"
+    }, 
+    "ord_eats_a_pizza_q_i_2": {
+        "anim": [
+            [
+                0.2, 
+                "SILENT_BOUNCINGTILT"
+            ]
+        ], 
+        "audio": "storyteller/questions/ord_eats_a_pizza_q_i_2.wav", 
+        "script": "Who do you think they will ask about what goes best on pizza dough?"
+    }, 
+    "paper_bag_trail_h_1": {
+        "anim": [
+            [
+                0.1, 
+                "SILENT_YES"
+            ]
+        ], 
+        "audio": "storyteller/questions/paper_bag_trail_h_1.wav", 
+        "script": "Its something Lee ate."
+    }, 
+    "paper_bag_trail_h_2": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/paper_bag_trail_h_2.wav", 
+        "script": "Look at the picture. Where is Lee putting the bag?"
+    }, 
+    "paper_bag_trail_q_f_1": {
+        "anim": [
+            [
+                0.2, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/paper_bag_trail_q_f_1.wav", 
+        "script": "What was in the bag before Lee threw it out?"
+    }, 
+    "paper_bag_trail_q_f_2": {
+        "anim": [
+            [
+                0.2, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/paper_bag_trail_q_f_2.wav", 
+        "script": "Where did Lee throw out the bag?"
+    }, 
+    "paws_and_claws_h_1": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/paws_and_claws_h_1.wav", 
+        "script": "Look at the picture. What is the bird holding in its claws?"
+    }, 
+    "paws_and_claws_h_2": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/paws_and_claws_h_2.wav", 
+        "script": "Look at the picture. What is the cat doing?"
+    }, 
+    "paws_and_claws_h_3": {
+        "anim": [
+            [
+                0.1, 
+                "SILENT_BOUNCINGTILT"
+            ]
+        ], 
+        "audio": "storyteller/questions/paws_and_claws_h_3.wav", 
+        "script": "Hmm...Can you guess?"
+    }, 
+    "paws_and_claws_q_f_1": {
+        "anim": [
+            [
+                0.2, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/paws_and_claws_q_f_1.wav", 
+        "script": "What is the bird holding with its claws?"
+    }, 
+    "paws_and_claws_q_f_2": {
+        "anim": [
+            [
+                0.2, 
+                "SILENT_BOUNCINGTILT"
+            ]
+        ], 
+        "audio": "storyteller/questions/paws_and_claws_q_f_2.wav", 
+        "script": "What is the cat doing with its claws?"
+    }, 
+    "paws_and_claws_q_f_3": {
+        "anim": [
+            [
+                0.2, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/paws_and_claws_q_f_3.wav", 
+        "script": "Can you tell what animals left those tracks?"
+    }, 
+    "pete_the_cat_too_cool_for_school_h_1": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/pete_the_cat_too_cool_for_school_h_1.wav", 
+        "script": "Look at the picture. What do you think?"
+    }, 
+    "pete_the_cat_too_cool_for_school_h_2": {
+        "anim": [
+            [
+                0.1, 
+                "PERKUP"
+            ], 
+            [
+                1.0, 
+                "SILENT_INTERESTED"
+            ]
+        ], 
+        "audio": "storyteller/questions/pete_the_cat_too_cool_for_school_h_2.wav", 
+        "script": "How would you feel if you wore so many clothes?"
+    }, 
+    "pete_the_cat_too_cool_for_school_q_e_2": {
+        "anim": [
+            [
+                0.2, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/pete_the_cat_too_cool_for_school_q_e_2.wav", 
+        "script": "How do you think Pete feels now?"
+    }, 
+    "pete_the_cat_too_cool_for_school_q_f_1": {
+        "anim": [
+            [
+                0.2, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/pete_the_cat_too_cool_for_school_q_f_1.wav", 
+        "script": "What colored shirt did Pete's brother ask him to wear?"
+    }, 
+    "pizza_cook_h_1": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/pizza_cook_h_1.wav", 
+        "script": "Look at the picture. What do you think?"
+    }, 
+    "pizza_cook_h_2": {
+        "anim": [
+            [
+                0.1, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/pizza_cook_h_2.wav", 
+        "script": "Take a look at the picture. Maybe you can guess."
+    }, 
+    "pizza_cook_q_f_1": {
+        "anim": [
+            [
+                0.2, 
+                "SILENT_BOUNCINGTILT"
+            ]
+        ], 
+        "audio": "storyteller/questions/pizza_cook_q_f_1.wav", 
+        "script": "What does kwaku use to make the pizza?"
+    }, 
+    "pizza_cook_q_i_2": {
+        "anim": [
+            [
+                0.2, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/pizza_cook_q_i_2.wav", 
+        "script": "Why is Kwaku flipping and spinning the pizza?"
+    }, 
+    "possum_and_the_peeper_a_1": {
+        "anim": [
+            [
+                0.1, 
+                "PERKUP"
+            ], 
+            [
+                3.0, 
+                "HAPPY_UP"
+            ], 
+            [
+                6.5, 
+                "SILENT_NOD"
+            ]
+        ], 
+        "audio": "storyteller/questions/possum_and_the_peeper_a_1.wav", 
+        "script": "Emerge means come out or come into view. Possum came out from his house. Possum emerged from his house!"
+    }, 
+    "possum_and_the_peeper_a_2": {
+        "anim": [
+            [
+                0.1, 
+                "IDLESTILL"
+            ], 
+            [
+                2.0, 
+                "SILENT_HAPPY_WIGGLE"
+            ], 
+            [
+                4.7, 
+                "PERKUP"
+            ], 
+            [
+                6.3, 
+                "SILENT_YES"
+            ], 
+            [
+                9.0, 
+                "SWAY"
+            ]
+        ], 
+        "audio": "storyteller/questions/possum_and_the_peeper_a_2.wav", 
+        "script": "Clamor is a loud noise, like when people shout! A clamor outside my window woke me up this morning cause a fire engine was passing by."
+    }, 
+    "possum_and_the_peeper_a_3": {
+        "anim": [
+            [
+                0.1, 
+                "IDLESTILL"
+            ], 
+            [
+                1.5, 
+                "HAPPY_UP"
+            ], 
+            [
+                3.5, 
+                "SILENT_YES"
+            ]
+        ], 
+        "audio": "storyteller/questions/possum_and_the_peeper_a_3.wav", 
+        "script": "Crest means the top of a hill. The bear is standing on the crest of a hill."
+    }, 
+    "possum_and_the_peeper_a_5": {
+        "anim": [
+            [
+                0.1, 
+                "IDLESTILL"
+            ], 
+            [
+                1.0, 
+                "SILENT_LAUGH"
+            ], 
+            [
+                6.0, 
+                "SILENT_BOUNCINGTILT"
+            ]
+        ], 
+        "audio": "storyteller/questions/possum_and_the_peeper_a_5.wav", 
+        "script": "A reed is a tall plant with long green leaves. It grows near water. One time, my friend made a basket out of reed leaves!"
+    }, 
+    "possum_and_the_peeper_a_6": {
+        "anim": [
+            [
+                0.1, 
+                "IDLESTILL"
+            ], 
+            [
+                1.0, 
+                "CIRCLING"
+            ], 
+            [
+                3.5, 
+                "SILENT_INTERESTED"
+            ]
+        ], 
+        "audio": "storyteller/questions/possum_and_the_peeper_a_6.wav", 
+        "script": "Rotund means round. Can you take a deep breath and make your tummy look rotund?"
+    }, 
+    "possum_and_the_peeper_a_7": {
+        "anim": [
+            [
+                0.1, 
+                "PERKUP"
+            ], 
+            [
+                3.0, 
+                "HAPPY_UP"
+            ]
+        ], 
+        "audio": "storyteller/questions/possum_and_the_peeper_a_7.wav", 
+        "script": "Inhale means to breathe in. Can you try breathing in? That's inhaling!"
+    }, 
+    "possum_and_the_peeper_h_1": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/possum_and_the_peeper_h_1.wav", 
+        "script": "Look! What is Possum doing?"
+    }, 
+    "possum_and_the_peeper_h_2": {
+        "anim": [
+            [
+                0.1, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/possum_and_the_peeper_h_2.wav", 
+        "script": "Why is Possum upset?"
+    }, 
+    "possum_and_the_peeper_h_3": {
+        "anim": [
+            [
+                0.1, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/possum_and_the_peeper_h_3.wav", 
+        "script": "Where is the bear standing?"
+    }, 
+    "possum_and_the_peeper_h_4": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/possum_and_the_peeper_h_4.wav", 
+        "script": "Look at the picture, what do you see?"
+    }, 
+    "possum_and_the_peeper_h_5": {
+        "anim": [
+            [
+                0.1, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/possum_and_the_peeper_h_5.wav", 
+        "script": "What is Possum pushing?"
+    }, 
+    "possum_and_the_peeper_h_6": {
+        "anim": [
+            [
+                0.1, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/possum_and_the_peeper_h_6.wav", 
+        "script": "What is the frog doing in the picture?"
+    }, 
+    "possum_and_the_peeper_h_7": {
+        "anim": [
+            [
+                0.1, 
+                "SILENT_BOUNCINGTILT"
+            ]
+        ], 
+        "audio": "storyteller/questions/possum_and_the_peeper_h_7.wav", 
+        "script": "What were the animals doing with the flowers?"
+    }, 
+    "possum_and_the_peeper_h_8": {
+        "anim": [
+            [
+                0.1, 
+                "SILENT_BOUNCINGTILT"
+            ]
+        ], 
+        "audio": "storyteller/questions/possum_and_the_peeper_h_8.wav", 
+        "script": "The peeper asks them to rise and shine and build their nests"
+    }, 
+    "possum_and_the_peeper_q_e_8": {
+        "anim": [
+            [
+                0.2, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/possum_and_the_peeper_q_e_8.wav", 
+        "script": "how do you think people feel in the spring?"
+    }, 
+    "possum_and_the_peeper_q_f_4": {
+        "anim": [
+            [
+                0.2, 
+                "SILENT_BOUNCINGTILT"
+            ]
+        ], 
+        "audio": "storyteller/questions/possum_and_the_peeper_q_f_4.wav", 
+        "script": "who slept all winter?"
+    }, 
+    "possum_and_the_peeper_q_l_1": {
+        "anim": [
+            [
+                0.2, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/possum_and_the_peeper_q_l_1.wav", 
+        "script": "What is the meaning of emerge?"
+    }, 
+    "possum_and_the_peeper_q_l_2": {
+        "anim": [
+            [
+                0.2, 
+                "SILENT_BOUNCINGTILT"
+            ]
+        ], 
+        "audio": "storyteller/questions/possum_and_the_peeper_q_l_2.wav", 
+        "script": "Do you know what clamor means?"
+    }, 
+    "possum_and_the_peeper_q_l_3": {
+        "anim": [
+            [
+                0.2, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/possum_and_the_peeper_q_l_3.wav", 
+        "script": "What's a crest of a hill?"
+    }, 
+    "possum_and_the_peeper_q_l_5": {
+        "anim": [
+            [
+                0.2, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/possum_and_the_peeper_q_l_5.wav", 
+        "script": "What is a reed?"
+    }, 
+    "possum_and_the_peeper_q_l_6": {
+        "anim": [
+            [
+                0.2, 
+                "SILENT_BOUNCINGTILT"
+            ]
+        ], 
+        "audio": "storyteller/questions/possum_and_the_peeper_q_l_6.wav", 
+        "script": "Do you know what rotund means?"
+    }, 
+    "possum_and_the_peeper_q_l_7": {
+        "anim": [
+            [
+                0.2, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/possum_and_the_peeper_q_l_7.wav", 
+        "script": "Do you know what inhale means?"
+    }, 
+    "raccoon_on_his_own_h_1": {
+        "anim": [
+            [
+                0.1, 
+                "SILENT_BOUNCINGTILT"
+            ], 
+            [
+                2.5, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/raccoon_on_his_own_h_1.wav", 
+        "script": "Here is a hint. It has fish in its name"
+    }, 
+    "raccoon_on_his_own_h_2": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/raccoon_on_his_own_h_2.wav", 
+        "script": "How would you feel if you were stuck in a boat?"
+    }, 
+    "raccoon_on_his_own_q_e_2": {
+        "anim": [
+            [
+                0.2, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/raccoon_on_his_own_q_e_2.wav", 
+        "script": "How did the young racoon feel? Can you show me with your face?"
+    }, 
+    "raccoon_on_his_own_q_f_1": {
+        "anim": [
+            [
+                0.2, 
+                "SILENT_BOUNCINGTILT"
+            ]
+        ], 
+        "audio": "storyteller/questions/raccoon_on_his_own_q_f_1.wav", 
+        "script": "what did the mother and young racoons find in the mud"
+    }, 
+    "robs_shop_h_1": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/robs_shop_h_1.wav", 
+        "script": "Look at the picture, what do you see?"
+    }, 
+    "robs_shop_h_2": {
+        "anim": [
+            [
+                0.1, 
+                "SILENT_BOUNCINGTILT"
+            ]
+        ], 
+        "audio": "storyteller/questions/robs_shop_h_2.wav", 
+        "script": "A lot of people come to his shop to buy stuff"
+    }, 
+    "robs_shop_q_f_1": {
+        "anim": [
+            [
+                0.2, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/robs_shop_q_f_1.wav", 
+        "script": "Which items does Rob sell?"
+    }, 
+    "robs_shop_q_i_2": {
+        "anim": [
+            [
+                0.2, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/robs_shop_q_i_2.wav", 
+        "script": "How do people feel about Rob?"
+    }, 
+    "see_the_sea_h_1": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/see_the_sea_h_1.wav", 
+        "script": "Look at the picture, what do you see?"
+    }, 
+    "see_the_sea_h_2": {
+        "anim": [
+            [
+                0.1, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/see_the_sea_h_2.wav", 
+        "script": "How many arms do you see in the picture?"
+    }, 
+    "see_the_sea_q_f_2": {
+        "anim": [
+            [
+                0.2, 
+                "SILENT_BOUNCINGTILT"
+            ]
+        ], 
+        "audio": "storyteller/questions/see_the_sea_q_f_2.wav", 
+        "script": "How many arms does a starfish usually have?"
+    }, 
+    "see_the_sea_q_i_1": {
+        "anim": [
+            [
+                0.2, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/see_the_sea_q_i_1.wav", 
+        "script": "Why should small fish swim fast?"
+    }, 
+    "small_animals_with_big_names_a_1": {
+        "anim": [
+            [
+                0.1, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/small_animals_with_big_names_a_1.wav", 
+        "script": "Armadillo!"
+    }, 
+    "small_animals_with_big_names_h_1": {
+        "anim": [
+            [
+                0.1, 
+                "IDLESTILL"
+            ]
+        ], 
+        "audio": "storyteller/questions/small_animals_with_big_names_h_1.wav", 
+        "script": "ar-ma-dil-lo"
+    }, 
+    "small_animals_with_big_names_h_2": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/small_animals_with_big_names_h_2.wav", 
+        "script": "What sound do they make when they're flapping? Hmm..."
+    }, 
+    "small_animals_with_big_names_q_i_2": {
+        "anim": [
+            [
+                0.2, 
+                "SILENT_BOUNCINGTILT"
+            ]
+        ], 
+        "audio": "storyteller/questions/small_animals_with_big_names_q_i_2.wav", 
+        "script": "Why do you think hummingbirds are called hummingbirds?"
+    }, 
+    "small_animals_with_big_names_q_l_1": {
+        "anim": [
+            [
+                0.2, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/small_animals_with_big_names_q_l_1.wav", 
+        "script": "Can you say armadillo?"
+    }, 
+    "stop_the_tot_h_1": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/stop_the_tot_h_1.wav", 
+        "script": "Look at the picture, who is it?"
+    }, 
+    "stop_the_tot_h_2": {
+        "anim": [
+            [
+                0.1, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/stop_the_tot_h_2.wav", 
+        "script": "Why is the tot looking at her sister?"
+    }, 
+    "stop_the_tot_q_f_1": {
+        "anim": [
+            [
+                0.2, 
+                "SILENT_BOUNCINGTILT"
+            ]
+        ], 
+        "audio": "storyteller/questions/stop_the_tot_q_f_1.wav", 
+        "script": "Who stops the tot?"
+    }, 
+    "stop_the_tot_q_i_2": {
+        "anim": [
+            [
+                0.2, 
+                "SILENT_BOUNCINGTILT"
+            ]
+        ], 
+        "audio": "storyteller/questions/stop_the_tot_q_i_2.wav", 
+        "script": "What do you think the tot will do next?"
+    }, 
+    "t_bone_on_top_h_1": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/t_bone_on_top_h_1.wav", 
+        "script": "What happened to the balloons?"
+    }, 
+    "t_bone_on_top_h_2": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/t_bone_on_top_h_2.wav", 
+        "script": "look at the picture. What does her face look like?"
+    }, 
+    "t_bone_on_top_q_e_2": {
+        "anim": [
+            [
+                0.2, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/t_bone_on_top_q_e_2.wav", 
+        "script": "How does the tot feel? Can you show me with your face?"
+    }, 
+    "t_bone_on_top_q_f_1": {
+        "anim": [
+            [
+                0.2, 
+                "SILENT_BOUNCINGTILT"
+            ]
+        ], 
+        "audio": "storyteller/questions/t_bone_on_top_q_f_1.wav", 
+        "script": "Why is the tot sad?"
+    }, 
+    "the_big_nut_h_1": {
+        "anim": [
+            [
+                0.1, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/the_big_nut_h_1.wav", 
+        "script": "What hit the nut?"
+    }, 
+    "the_big_nut_h_2": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/the_big_nut_h_2.wav", 
+        "script": "What are they drinking?"
+    }, 
+    "the_big_nut_q_f_1": {
+        "anim": [
+            [
+                0.2, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/the_big_nut_q_f_1.wav", 
+        "script": "why did the big nut fall out?"
+    }, 
+    "the_big_nut_q_i_2": {
+        "anim": [
+            [
+                0.2, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/the_big_nut_q_i_2.wav", 
+        "script": "What was in the nut?"
+    }, 
+    "the_biggest_cookie_in_the_world_h_1": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/the_biggest_cookie_in_the_world_h_1.wav", 
+        "script": "Look at the picture. What do you see?"
+    }, 
+    "the_biggest_cookie_in_the_world_h_2": {
+        "anim": [
+            [
+                0.1, 
+                "SILENT_HAPPY_WIGGLE"
+            ]
+        ], 
+        "audio": "storyteller/questions/the_biggest_cookie_in_the_world_h_2.wav", 
+        "script": "Was cookie monster day dreaming too long?"
+    }, 
+    "the_biggest_cookie_in_the_world_q_f_1": {
+        "anim": [
+            [
+                0.2, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/the_biggest_cookie_in_the_world_q_f_1.wav", 
+        "script": "What do you need to bake a cookie?"
+    }, 
+    "the_biggest_cookie_in_the_world_q_i_2": {
+        "anim": [
+            [
+                0.2, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/the_biggest_cookie_in_the_world_q_i_2.wav", 
+        "script": "Why is something burning?"
+    }, 
+    "the_dinosaur_who_lived_in_my_backyard_h_1": {
+        "anim": [
+            [
+                0.1, 
+                "SILENT_EXCITED"
+            ]
+        ], 
+        "audio": "storyteller/questions/the_dinosaur_who_lived_in_my_backyard_h_1.wav", 
+        "script": "How big is a dinosaur foot?"
+    }, 
+    "the_dinosaur_who_lived_in_my_backyard_h_2": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/the_dinosaur_who_lived_in_my_backyard_h_2.wav", 
+        "script": "What do they think will happen?"
+    }, 
+    "the_dinosaur_who_lived_in_my_backyard_q_f_1": {
+        "anim": [
+            [
+                0.2, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/the_dinosaur_who_lived_in_my_backyard_q_f_1.wav", 
+        "script": "Why wouldn't the dinosaurs feet fit in the sandbox?"
+    }, 
+    "the_dinosaur_who_lived_in_my_backyard_q_i_2": {
+        "anim": [
+            [
+                0.2, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/the_dinosaur_who_lived_in_my_backyard_q_i_2.wav", 
+        "script": "Why are they saving up all the lima beans?"
+    }, 
+    "the_frog_trail_h_1": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/the_frog_trail_h_1.wav", 
+        "script": "Look at the picture. Where did Sam and his father find the eggs?"
+    }, 
+    "the_frog_trail_h_2": {
+        "anim": [
+            [
+                0.1, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/the_frog_trail_h_2.wav", 
+        "script": "Here's a hint. It starts with a 'T'"
+    }, 
+    "the_frog_trail_q_f_1": {
+        "anim": [
+            [
+                0.2, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/the_frog_trail_q_f_1.wav", 
+        "script": "Where do frogs lay eggs?"
+    }, 
+    "the_frog_trail_q_i_2": {
+        "anim": [
+            [
+                0.2, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/the_frog_trail_q_i_2.wav", 
+        "script": "What are baby frogs called?"
+    }, 
+    "the_haircut_h_1": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/the_haircut_h_1.wav", 
+        "script": "What does the boy's face look like?"
+    }, 
+    "the_haircut_q_e_1": {
+        "anim": [
+            [
+                0.2, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/the_haircut_q_e_1.wav", 
+        "script": "How does the boy feel about his new hair?"
+    }, 
+    "the_hungry_toad_h_1": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/the_hungry_toad_h_1.wav", 
+        "script": "Look at the picture. What's in toad's hand?"
+    }, 
+    "the_hungry_toad_h_2": {
+        "anim": [
+            [
+                0.1, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/the_hungry_toad_h_2.wav", 
+        "script": "Did the toad eat something it wasn't supposed to?"
+    }, 
+    "the_hungry_toad_q_f_1": {
+        "anim": [
+            [
+                0.2, 
+                "SILENT_BOUNCINGTILT"
+            ]
+        ], 
+        "audio": "storyteller/questions/the_hungry_toad_q_f_1.wav", 
+        "script": "What did the toad eat?"
+    }, 
+    "the_hungry_toad_q_f_2": {
+        "anim": [
+            [
+                0.2, 
+                "SILENT_BOUNCINGTILT"
+            ]
+        ], 
+        "audio": "storyteller/questions/the_hungry_toad_q_f_2.wav", 
+        "script": "Why did the toad go to the doctor?"
+    }, 
+    "the_kind_child_h_1": {
+        "anim": [
+            [
+                0.1, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/the_kind_child_h_1.wav", 
+        "script": "What does it mean when your mother gives you a look?"
+    }, 
+    "the_kind_child_h_2": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/the_kind_child_h_2.wav", 
+        "script": "What is the girl holding in her hand?"
+    }, 
+    "the_kind_child_q_f_2": {
+        "anim": [
+            [
+                0.2, 
+                "SILENT_BOUNCINGTILT"
+            ]
+        ], 
+        "audio": "storyteller/questions/the_kind_child_q_f_2.wav", 
+        "script": "What did Gram and the little girl play?"
+    }, 
+    "the_kind_child_q_i_1": {
+        "anim": [
+            [
+                0.2, 
+                "SILENT_BOUNCINGTILT"
+            ]
+        ], 
+        "audio": "storyteller/questions/the_kind_child_q_i_1.wav", 
+        "script": "Did the girl's mother want her to go and play with her friends?"
+    }, 
+    "the_pancake_man_h_1": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/the_pancake_man_h_1.wav", 
+        "script": "Whom made the pancake man?"
+    }, 
+    "the_pancake_man_h_2": {
+        "anim": [
+            [
+                0.1, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/the_pancake_man_h_2.wav", 
+        "script": "The Pancake Man doesn't have to be eaten!"
+    }, 
+    "the_pancake_man_q_e_2": {
+        "anim": [
+            [
+                0.2, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/the_pancake_man_q_e_2.wav", 
+        "script": "How did the Pancake Man feel when the fox said she doesn't like pancakes?"
+    }, 
+    "the_pancake_man_q_f_1": {
+        "anim": [
+            [
+                0.2, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/the_pancake_man_q_f_1.wav", 
+        "script": "Whom did the pancake man run from?"
+    }, 
+    "the_street_band_h_1": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/the_street_band_h_1.wav", 
+        "script": "What do you think they can do?"
+    }, 
+    "the_street_band_h_2": {
+        "anim": [
+            [
+                0.1, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/the_street_band_h_2.wav", 
+        "script": "Why did the man run away?"
+    }, 
+    "the_street_band_q_e_2": {
+        "anim": [
+            [
+                0.2, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/the_street_band_q_e_2.wav", 
+        "script": "How did the mean man feel when he heard the sounds?"
+    }, 
+    "the_street_band_q_i_1": {
+        "anim": [
+            [
+                0.2, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/the_street_band_q_i_1.wav", 
+        "script": "What will the dog, sheep, cat, and bird do together?"
+    }, 
+    "troll_tricks_h_1": {
+        "anim": [
+            [
+                0.1, 
+                "PERKUP"
+            ], 
+            [
+                2.0, 
+                "SILENT_LEFTRIGHTLOOKING"
+            ]
+        ], 
+        "audio": "storyteller/questions/troll_tricks_h_1.wav", 
+        "script": "What's left when you remove the 'g' from goat?"
+    }, 
+    "troll_tricks_q_i_1": {
+        "anim": [
+            [
+                0.2, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/troll_tricks_q_i_1.wav", 
+        "script": "What does a goat like to eat?"
+    }, 
+    "wet_pets_h_1": {
+        "anim": [
+            [
+                0.1, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/wet_pets_h_1.wav", 
+        "script": "What was Clifford told to do?"
+    }, 
+    "wet_pets_h_2": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/wet_pets_h_2.wav", 
+        "script": "What did Clifford do?"
+    }, 
+    "wet_pets_q_f_1": {
+        "anim": [
+            [
+                0.2, 
+                "SILENT_BOUNCINGTILT"
+            ]
+        ], 
+        "audio": "storyteller/questions/wet_pets_q_f_1.wav", 
+        "script": "Why is Clifford on his back?"
+    }, 
+    "wet_pets_q_f_2": {
+        "anim": [
+            [
+                0.2, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/wet_pets_q_f_2.wav", 
+        "script": "Why did everyone get wet?"
+    }, 
+    "what_is_that_said_the_cat_h_1": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/what_is_that_said_the_cat_h_1.wav", 
+        "script": "Look at his legs. What is the horse doing?"
+    }, 
+    "what_is_that_said_the_cat_h_2": {
+        "anim": [
+            [
+                0.1, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/what_is_that_said_the_cat_h_2.wav", 
+        "script": "Who do you think those green skin and white teeth belong to?"
+    }, 
+    "what_is_that_said_the_cat_h_3": {
+        "anim": [
+            [
+                0.1, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/what_is_that_said_the_cat_h_3.wav", 
+        "script": "Look at what alligator is doing in the picture."
+    }, 
+    "what_is_that_said_the_cat_q_e_3": {
+        "anim": [
+            [
+                0.2, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/what_is_that_said_the_cat_q_e_3.wav", 
+        "script": "How did the alligator feel when all the animals ran away?"
+    }, 
+    "what_is_that_said_the_cat_q_f_1": {
+        "anim": [
+            [
+                0.2, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/what_is_that_said_the_cat_q_f_1.wav", 
+        "script": "How did the horse try to open the box?"
+    }, 
+    "what_is_that_said_the_cat_q_i_2": {
+        "anim": [
+            [
+                0.2, 
+                "SILENT_BOUNCINGTILT"
+            ]
+        ], 
+        "audio": "storyteller/questions/what_is_that_said_the_cat_q_i_2.wav", 
+        "script": "What was inside the box?"
+    }, 
+    "where_is_the_fox_h_1": {
+        "anim": [
+            [
+                0.1, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/where_is_the_fox_h_1.wav", 
+        "script": "Do you think foxes want to be seen or not seen?"
+    }, 
+    "where_is_the_fox_h_2": {
+        "anim": [
+            [
+                0.1, 
+                "PERKUP"
+            ], 
+            [
+                1.0, 
+                "CIRCLING"
+            ]
+        ], 
+        "audio": "storyteller/questions/where_is_the_fox_h_2.wav", 
+        "script": "Count them. Look everywhere in the picture."
+    }, 
+    "where_is_the_fox_q_i_1": {
+        "anim": [
+            [
+                0.2, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/where_is_the_fox_q_i_1.wav", 
+        "script": "Why do some foxes live in places that are similar to their color?"
+    }, 
+    "where_is_the_fox_q_i_2": {
+        "anim": [
+            [
+                0.2, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/where_is_the_fox_q_i_2.wav", 
+        "script": "How many pups are there?"
+    }, 
+    "who_hid_it_h_1": {
+        "anim": [
+            [
+                0.1, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/who_hid_it_h_1.wav", 
+        "script": "Who's left in the room?"
+    }, 
+    "who_hid_it_h_2": {
+        "anim": [
+            [
+                0.1, 
+                "SILENT_BOUNCINGTILT"
+            ]
+        ], 
+        "audio": "storyteller/questions/who_hid_it_h_2.wav", 
+        "script": "Clifford is red"
+    }, 
+    "who_hid_it_q_i_1": {
+        "anim": [
+            [
+                0.2, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/who_hid_it_q_i_1.wav", 
+        "script": "Can you guess who hid the mitt?"
+    }, 
+    "who_hid_it_q_i_2": {
+        "anim": [
+            [
+                0.2, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/who_hid_it_q_i_2.wav", 
+        "script": "Can you guess where Clifford is hiding?"
+    }, 
+    "will_clifford_win_h_1": {
+        "anim": [
+            [
+                0.1, 
+                "SILENT_BOUNCINGTILT"
+            ]
+        ], 
+        "audio": "storyteller/questions/will_clifford_win_h_1.wav", 
+        "script": "Count the dogs that are on the start line."
+    }, 
+    "will_clifford_win_h_2": {
+        "anim": [
+            [
+                0.1, 
+                "SILENT_LEFTRIGHTLOOKING"
+            ]
+        ], 
+        "audio": "storyteller/questions/will_clifford_win_h_2.wav", 
+        "script": "Clifford or Mac?"
+    }, 
+    "will_clifford_win_q_f_1": {
+        "anim": [
+            [
+                0.2, 
+                "SIDEPERK"
+            ]
+        ], 
+        "audio": "storyteller/questions/will_clifford_win_q_f_1.wav", 
+        "script": "How many dogs are racing?"
+    }, 
+    "will_clifford_win_q_i_2": {
+        "anim": [
+            [
+                0.2, 
+                "PERKUP"
+            ]
+        ], 
+        "audio": "storyteller/questions/will_clifford_win_q_i_2.wav", 
+        "script": "Who do you think will win?"
+    }
+}
