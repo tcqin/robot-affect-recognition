@@ -20,6 +20,7 @@ OUTPUT_PATH = 'test_sentences.csv'
 INPUT_SENTENCE_PATH = 'animations_and_transcripts'
 INPUT_FILE = 'storyteller_story_anim.json'
 
+# These are test sentences
 TEST_SENTENCES = [u'I love mom\'s cooking',
                   u'I love how you never reply back..',
                   u'I love cruising with my homies',
