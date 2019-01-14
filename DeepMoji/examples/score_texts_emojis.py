@@ -32,6 +32,7 @@ NUM_TEST_SENTENCES = len(TEST_SENTENCES)
 with open('{}/{}'.format(INPUT_SENTENCE_PATH, INPUT_FILE)) as f:
     examples = json.load(f)
 
+# Load sentences from the input file
 for message in examples.keys():
     script = examples[message]['script']
     TEST_SENTENCES.append(script)
@@ -73,9 +74,12 @@ for i, t in enumerate(TEST_SENTENCES):
     scores.append(t_score)
     print(t_score)
 
+# Sort the input file sentences by decreasing Top5Pcts
 new_input_scores = sorted(scores[NUM_TEST_SENTENCES:],
                           key=lambda x: x[1],
                           reverse=True)
+
+# Separate the original test sentences
 original_scores = scores[:NUM_TEST_SENTENCES]
 
 with open(OUTPUT_PATH, 'wb') as csvfile:
